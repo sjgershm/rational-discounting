@@ -8,7 +8,7 @@ function data = load_data(dataset)
             
         case 'chavez'
             
-            D = csvread('data/chavez_data.csv',2);
+            D = csvread('data/chavez_data.csv',1);
             
             X1 = [54 55 19 31 14 47 15 25 78 40 11 67 34 27 69 49 80 24 33 28 34 25 41 54 54 22 20]';
             T1 = zeros(27,1);
