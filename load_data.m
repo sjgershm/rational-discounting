@@ -23,7 +23,9 @@ function data = load_data(dataset)
                 data(s).T2 = T2;
                 data(s).N = length(X1);
                 data(s).C = 2;
-                data(s).s2_u = var([data(s).X1; data(s).X2]);
+                for n = 1:data(s).N
+                    data(s).s2_u(n,1) = max(1e-5,var([data(s).X1(1:n); data(s).X2(1:n)]));
+                end
             end
             
         case 'bhui'
@@ -45,9 +47,61 @@ function data = load_data(dataset)
                 bad = isnan(data(s).LL);
                 data(s).X1(bad) = []; data(s).X2(bad) = [];
                 data(s).T1(bad) = []; data(s).T2(bad) = [];
+                data(s).T1 = data(s).T1*30; data(s).T2 = data(s).T2*30; % convert months to days
                 data(s).LL(bad) = [];
                 data(s).N = length(data(s).LL);
                 data(s).C = 2;
-                data(s).s2_u = var([data(s).X1; data(s).X2]);
+                for n = 1:data(s).N
+                    data(s).s2_u(n,1) = max(1e-5,var([data(s).X1(1:n); data(s).X2(1:n)]));
+                end
+            end
+            
+        case 'bhui2'
+            
+            D = readtable('data/bhui_data2.csv');
+            S = unique(D.Subject);
+            F = fieldnames(D); F = F(1:7);
+            
+            for s = 1:length(S)
+                ix = D.Subject==S(s);
+                for f = 1:length(F)
+                    data(s).(F{f}) = D.(F{f})(ix,:);
+                end
+                data(s).Condition = data(s).Condition(1);
+                data(s).LL = D.LaterOptionChosen(ix,:);
+                bad = isnan(data(s).LL);
+                data(s).X1(bad) = []; data(s).X2(bad) = [];
+                data(s).T1(bad) = []; data(s).T2(bad) = [];
+                data(s).LL(bad) = [];
+                data(s).N = length(data(s).LL);
+                data(s).C = 2;
+                for n = 1:data(s).N
+                    data(s).s2_u(n,1) = max(1e-5,var([data(s).X1(1:n); data(s).X2(1:n)]));
+                end
+                p(s) = mean(data(s).LL);
+            end
+            
+        case 'hardisty'
+            
+            D = readtable('data/hardisty_data.csv');
+            S = unique(D.Subject);
+            F = fieldnames(D); F = F(1:7);
+            
+            for s = 1:length(S)
+                ix = D.Subject==S(s);
+                for f = 1:length(F)
+                    data(s).(F{f}) = D.(F{f})(ix,:);
+                end
+                data(s).Condition = data(s).Condition(1);
+                data(s).LL = D.LaterOptionChosen(ix,:);
+                bad = isnan(data(s).LL);
+                data(s).X1(bad) = []; data(s).X2(bad) = [];
+                data(s).T1(bad) = []; data(s).T2(bad) = [];
+                data(s).LL(bad) = [];
+                data(s).N = length(data(s).LL);
+                data(s).C = 2;
+                for n = 1:data(s).N
+                    data(s).s2_u(n,1) = max(1e-5,var([data(s).X1(1:n); data(s).X2(1:n)]));
+                end
             end
     end
