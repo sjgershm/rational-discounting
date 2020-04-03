@@ -130,8 +130,6 @@ function varargout=shadedErrorBar(x,y,errBar,varargin)
     if nargout==1
         varargout{1}=H;
     end
-    
-end
 
 function H = makePlot(x,y,errBar,lineProps,transparent,patchSaturation)
     

@@ -1,4 +1,6 @@
-function [m,se,X] = quantile_stats(x,y,q)
+function [m,err,X] = quantile_stats(x,y,q)
+    
+    rng(1);
     
     if isscalar(q)
         q = quantile(y,q);
@@ -8,5 +10,9 @@ function [m,se,X] = quantile_stats(x,y,q)
         ix = y>q(i) & y<=q(i+1);
         X{i} = x(ix);
         m(i) = nanmean(x(ix));
-        se(i) = nanstd(x(ix))./sqrt(sum(~isnan(x(ix))));
+        if nargout > 1
+            ci = bootci(2000,@nanmean,x(ix));
+            err(i) = diff(ci)/2;
+        end
+        %se(i) = nanstd(x(ix))./sqrt(sum(~isnan(x(ix))));
     end

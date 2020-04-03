@@ -4,14 +4,11 @@ function [results, bms_results] = fit_models(data,models,results)
     %
     % USAGE: [results, bms_results] = fit_models(data,models,results)
     
-    likfuns = {'QH' 'H0' 'H1' 'H2' 'H3' 'R1' 'R2' 'R3' 'R4' 'R5'};
+    likfuns = {'QH' 'H0' 'H1' 'H2' 'H3' 'R1' 'R2'};
     if nargin < 2; models = 1:length(likfuns); end
     
     mb = [-5 5];
     cb = [-5 5];
-    
-    %mb = [-10 10];
-    %cb = [-10 10];
     
     for i = models
         
@@ -40,12 +37,12 @@ function [results, bms_results] = fit_models(data,models,results)
                 param(2) = struct('name','c_alpha','lb',cb(1),'ub',cb(2));
                 param(3) = struct('name','m_k','lb',mb(1),'ub',mb(2));
                 param(4) = struct('name','c_k','lb',cb(1),'ub',cb(2));
-                %param(5) = struct('name','lapse','lb',0,'ub',0.99);
+                param(5) = struct('name','lapse','lb',0,'ub',0.99);
                 
             case 'H3'
                 param(1) = struct('name','m_alpha','lb',mb(1),'ub',mb(2));
                 param(2) = struct('name','m_k','lb',mb(1),'ub',mb(2));
-                %param(3) = struct('name','lapse','lb',0,'ub',0.99);
+                param(3) = struct('name','lapse','lb',0,'ub',0.99);
                 
             case 'R1'
                 param(1) = struct('name','alpha','lb',1e-6,'ub',50);
@@ -55,24 +52,6 @@ function [results, bms_results] = fit_models(data,models,results)
             case 'R2'
                 param(1) = struct('name','beta','lb',1e-6,'ub',100);
                 param(2) = struct('name','lapse','lb',0,'ub',0.99);
-                
-            case 'R3'
-                param(1) = struct('name','alpha','lb',1e-6,'ub',50);
-                param(2) = struct('name','beta','lb',1e-6,'ub',100);
-                param(3) = struct('name','k0','lb',-5,'ub',5);
-                param(4) = struct('name','lapse','lb',0,'ub',0.99);
-                
-            case 'R4'
-                param(1) = struct('name','beta','lb',1e-6,'ub',100);
-                param(2) = struct('name','k0','lb',-5,'ub',5);
-                param(3) = struct('name','alpha0','lb',-5,'ub',5);
-                param(2) = struct('name','lapse','lb',0,'ub',0.99);
-                
-            case 'R5'
-                param(1) = struct('name','beta1','lb',1e-6,'ub',100);
-                param(2) = struct('name','beta2','lb',1e-6,'ub',100);
-                param(3) = struct('name','k0','lb',-5,'ub',5);
-                param(4) = struct('name','alpha0','lb',-5,'ub',5);
                 
         end
         

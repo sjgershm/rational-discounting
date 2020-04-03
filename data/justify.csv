@@ -1,0 +1,1383 @@
+Gender,Ethnicity,Age,Condition,Manipulation,Magnitude,Choice,Justification
+Male,Caucasian,53,1,1,1,22.0,
+Male,Caucasian,41,1,1,1,30.0,
+Female,Caucasian,55,1,1,1,100.0,
+Female,Caucasian,22,1,1,1,25.0,
+Female,Asian American,39,1,1,1,200.0,
+Female,Caucasian,51,1,1,1,100.0,
+Female,Caucasian,47,1,1,1,40.0,
+Female,Caucasian,38,1,1,1,40.0,
+Female,Caucasian,24,1,1,1,100.0,
+Male,Caucasian,25,1,1,1,24.0,
+Male,Caucasian,76,1,1,1,21.0,
+Male,Asian American,33,1,1,1,25.0,
+Male,Caucasian,27,1,1,1,35.0,
+Male,Caucasian,29,1,1,1,21.0,
+Male,Caucasian,21,1,1,1,40.0,
+Male,Caucasian,24,1,1,1,40.0,
+Male,Asian American,29,1,1,1,50.0,
+Male,Caucasian,22,1,1,1,100.0,
+Male,Caucasian,28,1,1,1,30.0,
+Male,Caucasian,41,1,1,1,50.0,
+Female,Caucasian,32,1,1,1,40.0,
+Male,Caucasian,24,1,1,1,22.0,
+Male,Caucasian,20,1,1,1,100.0,
+Male,Caucasian,20,1,1,1,50.0,
+Male,Hispanic,30,1,1,1,30.0,
+Male,Caucasian,23,1,1,1,30.0,
+Male,Caucasian,38,1,1,1,100.0,
+Male,Caucasian,25,1,1,1,35.0,
+Female,Caucasian,48,1,1,1,100.0,
+Male,Caucasian,18,1,1,1,35.0,
+Male,Caucasian,26,1,1,1,30.0,
+Male,Caucasian,21,1,1,1,40.0,
+Female,Caucasian,24,1,1,1,35.0,
+Male,Caucasian,29,1,1,1,100.0,
+Male,Caucasian,37,1,1,1,100.0,
+Male,Caucasian,21,1,1,1,100.0,
+Male,Caucasian,23,1,1,1,40.0,
+Female,Asian American,22,1,1,1,100.0,
+Female,Caucasian,21,1,1,1,25.0,
+Female,Caucasian,22,1,1,1,100.0,
+Female,Caucasian,25,1,1,1,80.0,
+Female,Caucasian,28,1,1,1,25.0,
+Male,Caucasian,29,1,1,1,40.0,
+Male,Caucasian,28,1,1,1,30.0,
+Female,Caucasian,29,1,1,1,50.0,
+Male,Caucasian,39,1,1,1,60.0,
+Male,Asian American,18,1,1,1,100.0,
+Male,Caucasian,50,1,1,1,40.0,
+Male,Asian American,23,1,1,1,50.0,
+Female,African American,21,1,1,1,1000.0,
+Male,Caucasian,25,1,1,1,30.0,
+Female,Other,33,1,1,1,40.0,
+Female,Caucasian,26,1,1,1,100.0,
+Male,Hispanic,32,1,1,1,40.0,
+Male,Caucasian,26,1,1,1,100.0,
+Female,Caucasian,32,1,1,1,40.0,
+Female,Caucasian,30,1,1,1,500.0,
+Male,Caucasian,29,1,1,1,30.0,
+Female,Caucasian,27,1,1,1,200.0,
+Male,Caucasian,19,1,1,1,25.0,
+Male,Caucasian,28,1,1,1,500.0,
+Female,Caucasian,60,1,1,1,40.0,
+Male,Caucasian,41,1,1,1,100.0,
+Female,Caucasian,59,1,1,1,30.0,
+Male,Caucasian,64,1,1,1,500.0,
+Male,Caucasian,30,1,1,1,25.0,
+Male,Caucasian,31,1,1,1,80.0,
+Male,Caucasian,26,1,1,1,30.0,
+Male,Caucasian,27,1,1,1,22.0,
+Female,Caucasian,29,1,1,1,40.0,
+Male,Caucasian,33,1,1,1,25.0,
+Male,Caucasian,27,1,1,1,80.0,
+Male,Caucasian,26,1,1,1,100.0,
+Male,Caucasian,25,1,1,1,25.0,
+Male,Caucasian,22,1,1,1,50.0,
+Male,Caucasian,18,1,1,1,30.0,
+Male,African American,22,1,1,1,40.0,
+Male,Caucasian,22,1,1,1,100.0,
+Male,Caucasian,21,1,1,1,50.0,
+Male,Caucasian,22,1,1,1,40.0,
+Female,Caucasian,34,1,1,1,30.0,
+Male,Caucasian,22,1,1,1,25.0,
+Male,Asian American,24,1,1,1,30.0,
+Female,Caucasian,25,1,1,1,35.0,
+Male,Caucasian,41,1,1,1,100.0,
+Male,Caucasian,26,1,1,1,40.0,
+Male,Caucasian,18,1,1,1,40.0,
+Male,Caucasian,29,1,1,1,35.0,
+Female,Caucasian,22,1,1,1,200.0,
+Male,Caucasian,34,1,1,1,50.0,
+Female,Caucasian,21,1,1,1,30.0,
+Female,Caucasian,18,1,1,1,30.0,
+Female,Caucasian,26,1,1,1,150.0,
+Male,Asian American,18,1,1,1,40.0,
+Male,Caucasian,25,1,1,1,22.0,
+Female,Caucasian,53,1,1,1,1000.0,
+Male,Caucasian,24,1,1,1,50.0,
+Male,Caucasian,34,1,1,1,100.0,
+Female,Caucasian,31,1,1,1,150.0,
+Male,Caucasian,21,1,1,1,100.0,
+Female,Caucasian,44,1,1,1,50.0,
+Female,African American,32,1,1,1,51.0,
+Male,Caucasian,21,1,1,1,80.0,
+Male,Asian American,18,1,1,1,50.0,
+Female,Caucasian,22,1,1,1,33.0,
+Female,Asian American,29,1,1,1,21.0,
+Female,Asian American,22,1,1,1,25.0,
+Female,Asian American,26,1,1,1,100.0,
+Male,Caucasian,24,1,1,1,100.0,
+Male,Caucasian,26,1,1,1,50.0,
+Female,African American,55,1,1,1,100.0,
+Female,Caucasian,41,1,1,1,25.0,
+Male,Caucasian,18,1,1,1,500.0,
+Female,Caucasian,22,1,1,1,40.0,
+Female,African American,25,1,1,1,80.0,
+Female,Caucasian,18,1,1,1,100.0,
+Male,Caucasian,29,1,1,1,25.0,
+Female,Caucasian,26,1,1,1,200.0,
+Male,Caucasian,24,1,1,1,80.0,
+Male,Caucasian,54,1,1,1,100.0,
+Male,Asian American,28,1,1,1,100.0,
+Male,Caucasian,22,1,1,1,40.0,
+Female,Caucasian,51,1,1,1,50.0,
+Male,Asian American,35,1,1,1,40.0,
+Male,Caucasian,25,1,1,1,50.0,
+Female,Caucasian,27,1,1,1,30.0,
+Female,Caucasian,37,1,1,1,25.0,
+Female,Caucasian,54,1,1,1,50.0,
+Female,African American,51,1,1,1,500.0,
+Male,Hispanic,20,1,1,1,40.0,
+Female,Caucasian,61,1,1,1,60.0,
+Male,Caucasian,20,1,1,1,40.0,
+Female,Caucasian,23,1,1,1,40.0,
+Male,Caucasian,43,1,1,1,23.0,
+Male,Caucasian,22,1,1,1,21.0,
+Male,Caucasian,22,1,1,1,40.0,
+Female,Caucasian,53,1,1,1,40.0,
+Male,Caucasian,44,1,1,1,75.0,
+Female,Asian American,22,1,1,1,25.0,
+Male,Native American,23,1,1,1,100.0,
+Male,Caucasian,23,1,1,1,50.0,
+Male,Caucasian,18,1,1,1,50.0,
+Male,Caucasian,22,1,1,1,30.0,
+Female,Asian American,21,1,1,1,40.0,
+Female,Caucasian,24,1,1,1,60.0,
+Male,Caucasian,22,1,1,1,30.0,
+Male,Caucasian,27,1,1,1,100.0,
+Male,Asian American,24,1,1,1,50.0,
+Male,African American,29,1,1,1,40.0,
+Male,Caucasian,45,1,1,1,1000.0,
+Female,Caucasian,54,1,1,1,50.0,
+Female,Caucasian,22,1,1,1,80.0,
+Female,Caucasian,39,1,1,1,500.0,
+Female,African American,52,1,1,1,50.0,
+Male,Caucasian,29,1,1,1,50.0,
+Female,Caucasian,32,1,1,1,25.0,
+Male,Caucasian,23,1,1,1,22.0,
+Male,Caucasian,22,1,1,1,500.0,
+Male,Caucasian,23,1,1,1,30.0,
+Male,Asian American,18,1,1,1,50.0,
+Female,Caucasian,21,2,2,1,50.0,"Money isn't really a big issue, however we do need to pay bills. If the choice is between getting 20 tomorrow that won't get you more than a hair tie these days, and more in a month, i'll take the month."
+Female,Caucasian,23,2,2,1,21.0,I would be happy waiting 1 month for any interest greater than a dollar. I do not need 20 dollars so badly right now so I would like to see it earn some easy and fast interest.
+Male,Caucasian,35,2,2,1,30.0,I would have to say at least 10 more dollars since its just a month. You couldn't make that much in interest anywhere. Beside getting 20 now or 30 later would not make or break me.
+Female,African American,45,2,2,1,60.0,The money would have to be tripled to make me wait a month to get it. I do not feel it is worth it otherwise.
+Male,Caucasian,37,2,2,1,50.0,Need greatly increased compensation for the delayed gratification of the immediate $20 -- enough to make a notable difference in what I'm able to purchase with the prize.
+Female,Caucasian,47,2,2,1,21.0,$1.00 is 5% interest. You cannot get 5% interest anywhere!
+Female,Caucasian,23,2,2,1,30.0,I would want the money now so it would take a good deal of money more for me to wait. My reasons are that I could easily get the money now so I'm doing someone else a favor by not taking it right away.
+Female,Caucasian,18,2,2,1,100.0,"I would feel better to wait for the reward because it would feel more rewarding in that way. I wouldn't mind waiting for at least $100 or more, not some insane amount."
+Female,Caucasian,54,2,2,1,60.0,"I would probably take the $20.00 now.  For me to wait 1 month to get the money, I would probably require it to triple.  One of the reasons I would take the money now is that I would worry for the whole month that something would happen and I would not get any money at all.  Many things can change in a month, and a sure thing now is better than worrying about it for a month."
+Male,Caucasian,23,2,2,1,25.0,Any amount over 20 would be reasonable as long as it was above inflation plus a little bit to cover potential gains on 20 that I could make in a month.
+Male,Caucasian,23,2,2,1,21.0,"I'm patient, so waiting would not be an issue at all for me."
+Female,Caucasian,24,2,2,1,40.0,"It would have to be at least double that amount, because it is just $20, which I could make just by taking enough surveys online. "
+Male,Caucasian,26,2,2,1,30.0,I'd need 10 bucks more to make me wait. This would cancel out inflation and give me the incentive. 
+Male,Caucasian,21,2,2,1,40.0,"I would wait 1 month for 100% increase in winnings, this would seem fair to me."
+Male,Caucasian,27,2,2,1,100.0,"I would require about 80 more to wait. It wouldnt be worth it for me to wait otherwise. 20 would be nice to have now, but I would certainly wait a bit longer for 100."
+Female,Asian American,28,2,2,1,30.0,"I don't need $20 right as this moment, so I will be patient to get a bigger reward to wait. However, wait for a month will increase my risk than I may get nothing in return. To override the risk, I demand 50% rise for the risk I am going to take. "
+Male,Caucasian,19,2,2,1,50.0,"While $20 is a nice amount of money to get, it is not worth it to wait 1 month to receive that much when I would make more by working in that time. The extra money has to be more significant in order to wait longer."
+Female,Caucasian,51,2,2,1,22.0,"I would be okay with waiting another month if it meant more money.  $20 isn't that much so a month won't make much of a difference.  However, I would need at least an extra 10% to compensate for the need to remember to collect."
+Male,Caucasian,25,2,2,1,25.0,"I am not in need of the 20 dollars now, so I have no problem waiting. Of course if there must be some incentive, but it doesn't have to be much."
+Male,Caucasian,26,2,2,1,21.0,"Any additional money over the 20 would be worth waiting for, even if just a single dollar. Money is money, and it pays bills."
+Male,Caucasian,26,2,2,1,21.0,"Twenty dollars is not very much money. I could live without it for a month, so even a small increase would be worth it for me."
+Male,Caucasian,21,2,2,1,22.0,"I would have to factor in the time value of money, which would be equal to the best alternative I could get for that amount by foregoing consumption for one month. This is likely equal to the interest rate of my savings account."
+Female,Caucasian,21,2,2,1,100.0,"$20 right now would not do me a whole lot of good. I'd probably squander it on something I don't really need rather than save it. If the amount were $100 in one month, I'd definitely wait. Something about the number being 3 digits registers with me that I should put some away for saving, while $20 makes me think that I'll be able to get a few more restaurant meals this week. / Saving money has become a top priority for me recently, so I'd definitely wait to get not only more money, but money that I readily view as needing to be put into a savings account."
+Male,Caucasian,33,2,2,1,22.0,"I really don't need the money now, so anything more that I got in a month would be worth waiting for."
+Male,Caucasian,23,2,2,1,60.0,I would require 60 dollars. Considering the amount of the time I've spent I've spend waiting. 
+Male,Caucasian,25,2,2,1,21.0,"Any amount over $1.00 would be ideal, because the ROI would be much greater than if I had just accepted the $20 then and invested it myself. The stock market averages 8% returns and waiting for $1 would be about 8.75% ROI. This is also greater than any CD, Bond, or savings rate you can find these days and an 8% market is over the long term. A month is too volitale. So a gaurenteed $1 would be worth it. (Not factoring inflation)"
+Male,Caucasian,18,2,2,1,35.0,"If I was to receive more than only 20 dollars in one month just for waiting, sure, I would go ahead and wait. Of course I would want it to feel like it was worth waiting for. If it was something like only 1 dollar more then I would just take the 20 dollars at that moment."
+Male,Caucasian,22,2,2,1,45.0,"I would require about 45$ to make waiting as attractive as getting the 20$ up front. My reasoning behind this is that if I would have to wait for the money, I'd prefer to use it on long term items. Where as if I where to get the 20$ up front, I would use it on more short term items such as food."
+Male,Caucasian,20,2,2,1,40.0,"Anything greater-or-equal than would be okay by me! I don't have (m)any financial obligations at this point, so why not be surprised with next moon's mail? In some ways, I question why I simply don't ask for $0. (This isn't what you wanted, I'm sorry.)"
+Male,Hispanic,22,2,2,1,60.0,I would wait a month if they were offering $60. I don't need $20 that bad right NOW. So I wouldn't mind waiting.
+Female,Caucasian,22,2,2,1,30.0,"I would be willing to wait for more money, especially because I had already won."
+Male,Hispanic,19,2,2,1,40.0,I would wait for any amount greater than $20. Its a greater amount and im in no hurry to get an extra 20 dollars.
+Male,Caucasian,19,2,2,1,25.0,"I would want at least $5 more than $20, so $25. I don't need $20 that badly, so $5 is a reasonable amount for waiting a month for money I never had in the first place."
+Male,Caucasian,25,2,2,1,21.0,"I would only want $1 more, since that would be a lot more than the interest I could earn through a savings account."
+Male,Caucasian,26,2,2,1,50.0,"If I were to need to wait one whoel month in order to receive a larger payment, it would require a significant increase in prize money.  I would need at least $50 in order to be kept waiting that long."
+Female,Caucasian,59,2,2,1,25.0,I would not require much more than $20 because a month is not that long to wait. 
+Male,Caucasian,26,2,2,1,21.0,$20 isn't that much. I wouldn't mind waiting a month to receive any reward.
+Male,Caucasian,59,2,2,1,25.0,A 20% increase would get me to wait.  The amount of money is low so I would not look at it for less.
+Female,Caucasian,23,2,2,1,40.0,I would llike to recieve 40 dollars in a month. I can wait for more money. 20 dollars isn't enough
+Male,Caucasian,50,2,2,1,21.0,"Current (risk free) interest rates are quite close to zero.  So provided the credit risk is low, one does not need much incentive to wait on the money.  I have sufficient savings that I have no immediate need for the money, so only a slight kicker is necessary for me to wait."
+Female,Caucasian,40,2,2,1,100.0,I would want to receive at least $100 in a month. Otherwise I would take the $20 now because a month would be too long to wait since anything might happen before the month is up.
+Male,Caucasian,53,2,2,1,22.0,"I would accept $22 if I had to wait a month.I realize $2 difference is not much,but neither is $20.I always try to save money that comes about unexpectedly,so gaining 10% in a month is a nice interest rate."
+Male,Caucasian,33,2,2,1,50.0,"It would be have to be much more. at least twice as much, I would rather have the money now. "
+Female,Caucasian,28,2,2,1,25.0,"I would require $25.  I am looking to save up money, so even a little bit more would be a good incentive to wait.  "
+Female,Caucasian,29,2,2,1,50.0,"It would need to be at least 50 dollars for me to want to wait. Every penny is crucial to my survival now. I worry about ""in a month"" in a month, so I would rather have the money now. If it was more than 50 it would start to become worth waiting for. "
+Female,Caucasian,33,2,2,1,25.0,I think I would need to make at least $25 to wait a month to get it.  That seems about right to me.
+Male,Caucasian,32,2,2,1,30.0,"I would need significantly more to wait a month, because $20 would be very useful for me to have right now.  "
+Male,Caucasian,19,2,2,1,25.0,"I have no immediate need for the money, so I wouldn't mind waiting a month regardless of the extra money earned. Anything less than $5, however, and the return isn't significant enough to warrant waiting an extra month."
+Male,Caucasian,41,2,2,1,25.0,I would be willing to wait a month in order to get an extra $5.  That is better than any interest I would get if I put it in the bank.  
+Male,Caucasian,29,2,2,1,21.0,I would opt to receive more in one month if I would receive $21 for this choice.  Since I do not need money urgently right now I feel that It is worth waiting to receive more money later even if it is a small amount.
+Female,Caucasian,24,2,2,1,40.0,I would wait one more month it the money was at least doubled and I got an extra 20. The main reason I would not want to wait if it were to be less would be the convience factor.
+Male,Asian American,20,2,2,1,35.0,"I'd wait one month for a total of around ~$35. I find this increase makes it worth the wait when dealing with such tiny amounts of money. The difference is high enough to make it worth it, anything less just isn't worth the time."
+Male,Caucasian,26,2,2,1,30.0,"For $20, I really could care less about jumping through hoops to get paid.  A lottery that small should be cash in hand."
+Male,Caucasian,24,2,2,1,25.0,"I would wait for an extra $5, as it is just as small enough amount for me to not miss it after a month."
+Female,Caucasian,65,2,2,1,25.0,Twenty dollars is not much and a month is not very long to wait for five dollars more.
+Male,Caucasian,23,2,2,1,22.0,"I don't have a need for instant gratification, so I'd be willing to wait a month for almost the same amount of money."
+Female,Caucasian,23,2,2,1,50.0,"I think at least $50 would convince me to wait 1 month. I would choose this over the $20 because the $20 would just be spent on frivolous things, but I would forget about the $50 and then save it when it came to me."
+Male,Caucasian,48,2,2,1,50.0,50 bucks / Because although 20 is not a lot of money.  I could use that money now more than I could in the future.
+Male,Caucasian,26,2,2,1,30.0,"50% more, because $10 goes further, but does not have a large time downside."
+Female,Caucasian,22,2,2,1,40.0,"I'm not a very patient person, and every little bit of money helps me. I would be eager to get the $20 but if I was going to receive a higher amount I may be willing to wait a month. I would take no less than twice the amount, but ideally I would receive at least $50 for waiting a month."
+Female,Caucasian,23,2,2,1,25.0,"I would wait up to a month if it meant that I was getting 5 dollars more. I don't really need the money now, so it would be a nice bonus to get that and a little more a month later."
+Male,Caucasian,23,2,2,1,45.0,"I think I would wait as I'm not pressured for money right now, so if it was a decent return i wouldn't mind waiting. If it is an insignificant amount though, i'd probably just take the money now and have a nice dinner."
+Female,Caucasian,19,2,2,1,40.0,"I would need at least double the money in order to wait for an extra month. $40 should be a fair amount and anything higher than that would be even better. If I was told that I would receive less in a month, I would not choose the later option."
+Male,Caucasian,39,2,2,1,50.0,"$50. Winning this small of an amount would not make a big difference in my life right now, so waiting a few extra weeks would be worth the extra $30. "
+Male,Asian American,29,2,2,1,40.0,20 dollars is not that much so I would be willing to wait if in a month the amount was doubled.
+Male,Caucasian,27,2,2,1,200.0,"I would require about $200 more to wait a month. I could use the money immediatly, but in order for me to wait I would want a much larger sum to wait a month. "
+Male,Asian American,21,2,2,1,30.0,"At least $30 because I currently need the money right now. For it to be of use to me, I may be able to get someone to spot me the $20 and pay them back later and still make $10 for being inconvenienced."
+Male,Caucasian,20,2,2,1,200.0,"It would need to be a substantial amount in order for me to not take the 20 dollars now. Twenty dollars is a good amount and I could do a lot with it at the moment, but with a lot more money, I could do a lot more in a month. "
+Male,Caucasian,61,2,2,1,21.0,"At this level of payment, I can wait a month even for just an extra dollar.  To me, $20 is not a lot of money.  It wouldn't matter to me if I got that amount or not."
+Female,Caucasian,44,2,2,1,40.0,I would wait a month for 40.00.  It would be double the original reward.  I could really use the 40.00
+Male,Caucasian,34,2,2,1,40.0,"I would need 40$. To require me to wait 1 month longer, I should recive twice as much money for my inconvienience."
+Female,Caucasian,57,2,2,1,40.0,I think that if you have to wait a month that the prize should be doubled. Anything less than $40 would not be worth the wait. The incentive for wating should be attractive to the winner. 
+Female,Caucasian,24,2,2,1,25.0,"I would take as little as $25 a month later because it's still a significant amount of interest to earn for waiting such as short period of time. If for some reason it fell through I would just accept that the money wasn't something that I earned in the first place, it was won by chance."
+Female,Asian American,43,2,2,1,30.0,I would like to have $20 now than later. It would prefer to receive $30 if I had to wait for a month.  
+Male,Caucasian,26,2,2,1,25.0,"I'm a pretty patient person, so I don't mind waiting longer for more. I'm not in such dire need of $20 that I couldn't do without it for a month."
+Male,Asian American,22,2,2,1,21.0,"I can make a few percent return in a month with some consistency so as long as the future value is greater than the principal plus my opportunity cost, it makes sense. Also, I'm not in need of money."
+Female,African American,21,2,2,1,40.0,Well if I wasn't in a rush for the money I most likely would take more in a month. If I was given the money immediately I would easily blow it. Having a month will give me time to think and most likely forget about it.
+Female,Caucasian,25,2,2,1,21.0,I would choose to wait in order to obtain more money. $20 is not very much and it is not like I would be missing it. 
+Female,Asian American,24,2,2,1,100.0,Because it is 5 times more than the original amount
+Male,Caucasian,23,2,2,1,25.0,I would need it to barely increase more than my interest in my bank account
+Female,Caucasian,29,2,2,1,30.0,"A month isn't very long, so it wouldn't take very much money to entice me to wait in order to receive a bit more."
+Female,Caucasian,47,2,2,1,25.0,I would wait the one month for 25 dollars.  I don't really need the money so waiting is not a problem and getting it RIGHT NOW would not really help.
+Female,Asian American,21,2,2,1,30.0,Any difference of less than $10 seems rather trivial to wait a month to receive. 
+Male,Caucasian,26,2,2,1,50.0,free money means less then money earned thus 20 dollars free money now is worth more the 30 or 40 dollars later. That is why it would need to be more then double for it to pay off in the layman eyes.
+Female,Caucasian,42,2,2,1,40.0,Doubling the money to $40 or more would be worth waiting a month since that would be an incredible rate of return.
+Male,Hispanic,22,2,2,1,100.0,if i won the raffle i would go with the one month waiting because i would want to receive more. I would want to receive 100 for the one month waiting.
+Male,Hispanic,27,2,2,1,40.0,40 dollars.  Because It is a large enough value to tide my anxiety.
+Female,Caucasian,66,2,2,1,40.0,"If I did not need the money immediately I would wait 1 month in order to receive a larger payment. If you look long term, typically you come out ahead."
+Male,Caucasian,21,2,2,1,25.0,It would depend on how much. An amount today is worth less down the road. 
+Male,Caucasian,26,2,2,1,75.0,"I would choose to receive a larger amount a month later. If I received a larger amount, I would likely be able to save it or spend it, and get a larger reward as a result (whether an item or money). "
+Female,Caucasian,29,2,2,1,40.0,"$20 isn't a lot, so I wouldn't miss it if I didn't get it today. That being said, $20 isn't that much, so it would have to be a LOT MORE for me to wait a month to get it. Like double the amount of the original prize, so $40."
+Female,Caucasian,18,2,2,1,100.0,Waiting for it makes it seem more rewarding.
+Male,Caucasian,53,2,2,1,50.0,"With the current rate of inflation and the value of the dollar, I would have to consider taking the $20 now.  "
+Female,Caucasian,24,2,2,1,50.0,It would have to be at least twice more but I don't like to have to wait to collect on money.
+Male,Asian American,21,2,2,1,30.0,I would wait a month for any amount more than $20 because i do not need it right away.
+Female,African American,57,2,2,1,30.0,"I would wait if it was a lot more than $20 but if it was a few dollars, I would like it now. I figure if I had to wait it had to be a much larger amount."
+Female,Caucasian,28,2,2,1,200.0,"At least $200. I have needs for the money now. If the reward varies from at the moment highly, then I can call creditors and tell them I will expect minimum payments and more."
+Female,Caucasian,60,2,2,1,23.0,I would consider the amount of interest I could earn compounded monthy.  I would also take in consideration how much a twenty dollar investment in the stock market would net me.
+Male,Caucasian,35,2,2,1,40.0,1. Time value of money--now is better / 2. It would have to be significantly more to wait. / 3. How could I be sure that I would get more money later?
+Female,Caucasian,30,2,2,1,40.0,"That way I would double my money, sort of like getting 100 percent interest.  The payout would give me something to look forward to, and it would be a decent amount of money.  If I did not take the $20 now, I would worry, I wouldn't get the payout, but waiting for the 40 would be worth it."
+Female,Caucasian,23,2,2,1,21.0,"I would most likely wait 1 month, unless there was some unforeseen major expense that I needed the money for immediately. It makes sense to me to wait a month then, for any amount (1 dollar or) more above $20, because before the raffle I did not have the $20 anyway, so what's waiting one more month (to get more)?"
+Male,Caucasian,22,2,2,1,40.0,There is a time factor when talking about money. I would rather have 20 dollars now than 30 dollars in 30 days. However if they are willing to give me double in 30 days I will wait because I dont need twenty dollars that much. 
+Female,Caucasian,26,2,2,1,30.0,"In one month, anything $10 or more would be worth me waiting the additional month. $20 isnt a whole lot so I could wait for it with the option of adding to it. "
+Male,Caucasian,39,2,2,1,40.0,"The majority of items worth purchasing reuire an investment of at least $20.  I would hav elittle need for an extra $5 or $10, but $20 would permit more in the way of purchases."
+Male,Caucasian,34,2,2,1,21.0,Any value > 20...$20 immediately is not enough money to satisfy any need or want. /  / 
+Female,Caucasian,58,2,2,1,25.0,If I knew I had a chance to get more money I would wait because at this time $20.00 is not that big of a deal to me. It would be a interesting month wondering how much more I would get!
+Female,Caucasian,20,2,2,1,100.0,"I would require $100. This sounds greedy, but it is also not too extreme."
+Female,Caucasian,34,2,2,1,30.0,I would wait for a month to receive more money.  I figure I started with nothing anyways so I wouldn't miss it.  
+Male,Caucasian,41,2,2,1,120.0,"I can earn 20 or 60 dollars easily myself, I can wait for a good amount like $100. I think if banks paid higher interest they would help their customers acheive more property and credit. I would wait 2 months for $150."
+Male,Other,47,2,2,1,21.0,"It doesn't make any difference when I receive the money, there was nothing stated I needed to pay any bills.  So, $1 additional would be fine.  "
+Female,Caucasian,36,2,2,1,30.0,I do not need $20 right now so I would be willing to wait in order to receive more money at a later date.
+Female,African American,41,2,2,1,100.0,"Twenty dollars may not seem like a lot of money to some, but to a person who is struggling financially twenty dollars would be appreciated.  I would gladly take $20 now if I were to win it in a raffle because I am in need of that and much more, but would be willing to wait 1 month for a greater amount.  Now since I'm willing to wait to get my reward, I could only consider this option if the amount I'd receive later would be well worth the wait."
+Female,Caucasian,21,3,1,2,55.0,
+Male,Caucasian,28,3,1,2,150.0,
+Male,Caucasian,27,3,1,2,100.0,
+Female,Caucasian,37,3,1,2,100.0,
+Female,Caucasian,25,3,1,2,100.0,
+Male,Asian American,25,3,1,2,100.0,
+Male,Caucasian,49,3,1,2,75.0,
+Female,Caucasian,55,3,1,2,55.0,
+Female,Caucasian,20,3,1,2,500.0,
+Female,African American,20,3,1,2,100.0,
+Male,Caucasian,51,3,1,2,200.0,
+Male,Caucasian,27,3,1,2,110.0,
+Male,African American,28,3,1,2,250.0,
+Male,Caucasian,22,3,1,2,500.0,
+Female,Caucasian,25,3,1,2,250.0,
+Male,Caucasian,27,3,1,2,150.0,
+Male,Caucasian,30,3,1,2,75.0,
+Male,Caucasian,26,3,1,2,100.0,
+Male,Caucasian,24,3,1,2,150.0,
+Male,Caucasian,28,3,1,2,75.0,
+Female,Caucasian,56,3,1,2,100.0,
+Male,Caucasian,33,3,1,2,100.0,
+Female,Hispanic,25,3,1,2,150.0,
+Female,Caucasian,43,3,1,2,100.0,
+Female,Asian American,41,3,1,2,60.0,
+Male,Caucasian,53,3,1,2,250.0,
+Female,Caucasian,24,3,1,2,500.0,
+Male,Caucasian,18,3,1,2,75.0,
+Male,Caucasian,35,3,1,2,75.0,
+Male,Caucasian,37,3,1,2,75.0,
+Male,Caucasian,33,3,1,2,65.0,
+Female,Caucasian,29,3,1,2,90.0,
+Male,Caucasian,68,3,1,2,55.0,
+Female,Caucasian,41,3,1,2,200.0,
+Female,Caucasian,35,3,1,2,55.0,
+Female,Caucasian,27,3,1,2,100.0,
+Male,Caucasian,49,3,1,2,100.0,
+Male,Caucasian,42,3,1,2,100.0,
+Male,Caucasian,44,3,1,2,200.0,
+Female,Caucasian,27,3,1,2,60.0,
+Female,Caucasian,36,3,1,2,100.0,
+Female,Caucasian,22,3,1,2,200.0,
+Female,Caucasian,30,3,1,2,75.0,
+Male,Caucasian,41,3,1,2,300.0,
+Male,Asian American,26,3,1,2,100.0,
+Male,Caucasian,20,3,1,2,100.0,
+Female,Asian American,18,3,1,2,100.0,
+Male,Caucasian,23,3,1,2,100.0,
+Male,Caucasian,25,3,1,2,1000.0,
+Male,Caucasian,23,3,1,2,100.0,
+Male,Caucasian,32,3,1,2,100.0,
+Male,Caucasian,29,3,1,2,350.0,
+Male,Caucasian,33,3,1,2,60.0,
+Female,Caucasian,42,3,1,2,150.0,
+Female,Caucasian,24,3,1,2,70.0,
+Female,Caucasian,29,3,1,2,75.0,
+Male,Hispanic,24,3,1,2,75.0,
+Female,Caucasian,36,3,1,2,100.0,
+Male,Caucasian,24,3,1,2,500.0,
+Female,Caucasian,54,3,1,2,150.0,
+Female,Caucasian,29,3,1,2,150.0,
+Male,Caucasian,25,3,1,2,100.0,
+Male,Caucasian,25,3,1,2,200.0,
+Male,Asian American,37,3,1,2,80.0,
+Male,Other,29,3,1,2,100.0,
+Female,Native American,22,3,1,2,150.0,
+Male,Caucasian,36,3,1,2,100.0,
+Male,Caucasian,18,3,1,2,200.0,
+Female,Asian American,21,3,1,2,300.0,
+Female,Caucasian,52,3,1,2,150.0,
+Male,Asian American,28,3,1,2,100.0,
+Male,Caucasian,34,3,1,2,85.0,
+Male,Caucasian,28,3,1,2,100.0,
+Female,African American,40,3,1,2,100.0,
+Female,Caucasian,28,3,1,2,75.0,
+Male,Caucasian,18,3,1,2,100.0,
+Female,Caucasian,43,3,1,2,100.0,
+Male,African American,24,3,1,2,100.0,
+Male,Caucasian,34,3,1,2,200.0,
+Female,Caucasian,28,3,1,2,100.0,
+Male,Caucasian,37,3,1,2,100.0,
+Male,Caucasian,20,3,1,2,100.0,
+Female,Caucasian,31,3,1,2,100.0,
+Male,Hispanic,35,3,1,2,300.0,
+Male,Caucasian,43,3,1,2,55.0,
+Female,Caucasian,31,3,1,2,100.0,
+Female,Caucasian,47,3,1,2,75.0,
+Male,Caucasian,32,3,1,2,51.0,
+Male,Caucasian,30,3,1,2,100.0,
+Female,Caucasian,26,3,1,2,75.0,
+Male,Caucasian,45,3,1,2,200.0,
+Male,Caucasian,24,3,1,2,74.0,
+Male,Caucasian,18,3,1,2,150.0,
+Female,Caucasian,36,3,1,2,75.0,
+Male,Hispanic,20,3,1,2,3000.0,
+Male,Asian American,24,3,1,2,75.0,
+Male,Caucasian,26,3,1,2,200.0,
+Male,Caucasian,19,3,1,2,80.0,
+Female,Caucasian,21,3,1,2,200.0,
+Male,Caucasian,31,3,1,2,60.0,
+Female,Hispanic,19,3,1,2,75.0,
+Female,Caucasian,42,3,1,2,100.0,
+Female,Caucasian,35,3,1,2,500.0,
+Female,Caucasian,19,3,1,2,60.0,
+Male,Caucasian,31,3,1,2,60.0,
+Male,Caucasian,39,3,1,2,250.0,
+Male,Caucasian,33,3,1,2,55.0,
+Female,African American,24,3,1,2,100.0,
+Female,Caucasian,23,3,1,2,100.0,
+Male,Caucasian,45,3,1,2,100.0,
+Female,Caucasian,26,3,1,2,60.0,
+Male,Caucasian,27,3,1,2,100.0,
+Female,Caucasian,31,3,1,2,55.0,
+Female,Caucasian,25,3,1,2,75.0,
+Female,Hispanic,23,3,1,2,100.0,
+Female,Caucasian,28,3,1,2,100.0,
+Female,Caucasian,31,3,1,2,70.0,
+Female,Caucasian,22,3,1,2,150.0,
+Female,Caucasian,42,3,1,2,100.0,
+Female,Caucasian,23,3,1,2,70.0,
+Male,Native American,30,3,1,2,100.0,
+Male,Other,58,3,1,2,60.0,
+Female,Caucasian,27,3,1,2,150.0,
+Female,Caucasian,47,3,1,2,100.0,
+Female,Caucasian,45,3,1,2,100.0,
+Female,Asian American,21,3,1,2,100.0,
+Female,Caucasian,54,3,1,2,100.0,
+Male,Caucasian,55,3,1,2,5000.0,
+Male,Caucasian,52,3,1,2,60.0,
+Female,Asian American,54,3,1,2,60.0,
+Female,Caucasian,39,3,1,2,75.0,
+Male,Caucasian,25,3,1,2,100.0,
+Female,Caucasian,30,3,1,2,100.0,
+Male,Caucasian,42,3,1,2,100.0,
+Male,Caucasian,22,3,1,2,200.0,
+Male,Caucasian,20,3,1,2,100.0,
+Male,Caucasian,26,3,1,2,75.0,
+Male,Caucasian,35,3,1,2,100.0,
+Female,Caucasian,24,3,1,2,150.0,
+Male,Caucasian,25,3,1,2,60.0,
+Male,Caucasian,39,3,1,2,1000.0,
+Male,Caucasian,20,3,1,2,100.0,
+Male,Caucasian,33,3,1,2,65.0,
+Male,African American,23,3,1,2,75.0,
+Female,Caucasian,52,3,1,2,100.0,
+Female,African American,29,3,1,2,100.0,
+Male,Caucasian,41,3,1,2,150.0,
+Female,Caucasian,29,3,1,2,100.0,
+Female,Caucasian,23,3,1,2,100.0,
+Male,Caucasian,20,3,1,2,55.0,
+Male,Caucasian,25,3,1,2,55.0,
+Female,Caucasian,26,3,1,2,100.0,
+Female,Caucasian,26,3,1,2,800.0,
+Male,Caucasian,28,3,1,2,55.0,
+Female,Hispanic,24,3,1,2,500.0,
+Male,Caucasian,24,4,2,2,75.0,"If I had won the prize, I would most likely take the money right then and there, unless there was a 50% plus bonus for waiting the extra month, I'd rather take the money now, rather than chance that anything could happen that could lead to me not getting the money a month later (fear of the unknown). It probably sounds far fetched that something could happen in just one month that would render me unable to collect the winnings, but it's just about the luck that I seem to have."
+Female,African American,28,4,2,2,200.0,I would need at least 200 to wait an additional month just because by the time a month  rolls around I will need more.
+Female,Caucasian,29,4,2,2,70.0,I think I'd prefer waiting if I got at least $70. I could use $50 right now but getting at least $30 more would make it worth waiting.
+Male,Caucasian,20,4,2,2,51.0,If I just won a raffle I would choose the option of waiting a month to receive a larger award of just one dollar more. Winning a raffle is something of luck and I would base any of my expense off of the probability I might win.
+Male,Caucasian,55,4,2,2,51.0,I don't care if I don't get the money for a month.  Interest rates are so low it just doesn't make any difference.
+Male,Caucasian,25,4,2,2,100.0,I work from april-october then I unemployed until april again. I chould really use the money RIGHT now and not in a month. So it would have to be at leaast double the 50$ for me to even consider wating for it.
+Male,Caucasian,22,4,2,2,250.0,"The amount of money would have to be around 4 or 5 times greater, enough to reimburse for my utilities costs for the month that I waited. If I had taken the 50 dollars, it would have helped my expenses for that month. The amount would have to substantial and known beforehand as well."
+Female,Caucasian,29,4,2,2,75.0,"It would need to be at least $75 for me to wait until next month. If it is too close to the amount , I would just rather have it now so I can spend it. "
+Female,Hispanic,28,4,2,2,51.0,My answer would depend on the amount of the raffle.  I think in terms of a percentage and I would want 10% for the month.  So since the minimum is $50 I would say that The winnings would need to be $510 for the normal win and $551 to wait.
+Female,Caucasian,33,4,2,2,55.0,"There's some uncertainty about a delayed payment, so the amount of extra money would have to be enough to offset the chance that the circumstances would change before the money was paid. "
+Female,Caucasian,23,4,2,2,51.0,"If I was to get more in a month, I could wait being that I am not hurting for money, I would rather have the larger sum."
+Female,African American,33,4,2,2,75.0,"$ 50 is too little of a sum to wait for, however I do not feel that I would need it right away so I would wait for 50%. $75 in 1 month."
+Female,Caucasian,33,4,2,2,60.0,"I think that as long as I wasn't in desperate need of the $50 right away, that I would wait the month to get more.  I would say ideally, I would receive $60 after waiting 1 month, but could possibly go with any amount more than $50."
+Male,Asian American,25,4,2,2,60.0,"It would probably be at least $60. I don't really need the money right now, but any less than $10 more wouldn't really seem like much of a difference to me. Of course, even $51 would be worth it strictly financially speaking since you're not going to get that kind of interest in month anywhere else."
+Female,Caucasian,35,4,2,2,100.0,i would rather receive more in one month.  I dont think 50 dollars is much money and I can do without it for a month.  I would be willing to wait if i were to receive at least 100 dollars
+Female,Caucasian,47,4,2,2,52.0,Anything that is more than the current interest rate is worth waiting for.  I feel this way because this money is a bonus.  I can wait a month for a larger bonus.
+Female,Caucasian,32,4,2,2,100.0,I think it's an appropriate amount.  It would be like winning twice and it would be enough to compensate my husband and I both for waiting since we would be sharing the money.  
+Male,Asian American,32,4,2,2,100.0,I would have to say 100 dollars because anything less than that is not worth waiting a month for
+Male,Caucasian,48,4,2,2,75.0,"Well I'm on a fixed income, and a small one at that. I get paid once a month on the third. If I were to win this raffle at the beginning of the month I would probably wait and get more next month. I it was toward the end of the month and I was needing the money to hold me over until I got paid again I would probably take the $50 now."
+Female,Caucasian,23,4,2,2,300.0,"$300 - Right now, I am in desperate need for money in order to pay my bills. $50 would help A LOT now. It would have to be a substantial increase in order to wait one month to receive the money."
+Female,Caucasian,25,4,2,2,55.0,I have a decent income. I would be willing to wait a month for just a few more dollars. It would be better than interest from a savings account.
+Male,Caucasian,28,4,2,2,60.0,"$60. It's just a month, why not wait a month for $10 more dollars? That's a free lunch, just for waiting."
+Male,Caucasian,32,4,2,2,70.0,I would require at least 70 dollars to wait. As they say a bird in the hand is worth two in the bush so I would want some kind of gain if i waited. Also I could use the money right away.
+Male,African American,27,4,2,2,51.0,"Well if I won a raffle and had that option, I would wait. Any money more than what I have is already a bonus , so I would definitely wait longer even if the amount was 1 dollar more."
+Male,Caucasian,18,4,2,2,55.0,In my personal situation I would take extra money if the wait wasn't that long. At the end of the month the extra money would be a nice surprise.
+Female,Caucasian,25,4,2,2,200.0,If it was $75 I would take the $50 now. If it was a substantial amount of money the 50 would probably do nothing for me and I would wait until I could receive the full amount.
+Female,African American,27,4,2,2,150.0,"My reasoning is based on me wanting at least double, plus extra for waiting 30 whole days. SInce more money is guaranteed in a month, I think that waiting to receive more would be worth it ."
+Male,Caucasian,30,4,2,2,100.0,For me to feel that the money is work waiting it at least has to be at least three digits because it makes me feel like I am making money on the deal.
+Female,Caucasian,18,4,2,2,75.0,"Although waiting to receive the payment in one month in general is more attractive to me, I would have them add at least $25 dollars. This way, I would wait, and know I would have money coming, PLUS interest. "
+Male,Caucasian,30,4,2,2,80.0,"If I had to wait a month, I'd require about $1.00 per day extra and since a month has about 30 days, I would require payment of $80 if I had to wait a month for the raffle prize."
+Male,Caucasian,27,4,2,2,75.0,I would wait 1 month if it was 75 dollars or more.  The reason being is any less makes it not worth waiting
+Female,Caucasian,22,4,2,2,100.0,"Wait for more in 1 month. When you choose to hastily do something, sell or buy, usually it turns out to be a bad impulsive decision. I think that taking the extra time to wait for your prize and then being rewarded with a little more is a great thing."
+Female,Asian American,18,4,2,2,55.0,The money does not have to be larger by a lot because any free money is good no matter how much it is.
+Female,Caucasian,20,4,2,2,300.0,i would say about 300 because that i believe would pay off from waiting and be able to pay bills with that.
+Male,Hispanic,19,4,2,2,200.0,"it would have to be at least $200 for me to pass the fifty dollars and wait a month. I'd rather wait and get four times the amount later rather then now. I am good at investing money, I choose the route that ensures the greatest profit."
+Female,Caucasian,31,4,2,2,100.0,"$100.  Doubling feels like an acceptable bonus for waiting, and it feels like I could really buy more with $100 over $50"
+Male,Caucasian,27,4,2,2,51.0,"I would expect 51 dollars in a month.  51 dollars is 2% more than 50 dollars, which is a sizable increase.  These days, interest rates above 1.5% are hard to find, and that is over a year."
+Male,Caucasian,19,4,2,2,65.0,"$15 dollars more, to make it 65 dollars. I figure i have just enough to pay for what i need right now, so i can afford waiting."
+Male,Asian American,18,4,2,2,51.0,"I would take any amount over $50 in one month. I guess it would have to be at least $51, to make the number nice. I don't need money right now, so almost any extra money is worth it for the wait."
+Female,African American,20,4,2,2,200.0,"I would need a pretty high incentive to wait an entire month. PLus, if I had to wait, I woul dwant to be able to cover rent"
+Female,African American,23,4,2,2,100.0,I would want twice as much for the inconvenience.
+Male,Caucasian,28,4,2,2,100.0,"In order to wait a month, I feel that double the original sum ($100) as a reward would be necessary.  The $100 mark is an almost magical monetary amount, that would be worth waiting for in my opinion."
+Male,Caucasian,46,4,2,2,150.0,The money would have to be tripled that is saying $150.00. Because I am in desperate need of money I cannot always wait a month for the money as I have bills to pay.
+Female,African American,25,4,2,2,70.0,"I would like at least $20 more to make it worthwhile. I work part-time so an extra $50 would be needed right now, rather than later."
+Female,Caucasian,19,4,2,2,200.0,It would have to be like 4 times as much.  Because 50 isn't alot and nor is 100 but 200 is.  
+Male,Caucasian,25,4,2,2,55.0,I don't need money right now. I'd rather wait for almost any amount more. 
+Male,African American,18,4,2,2,100.0,Waiting 1 month would be bearable in comarison to getting $50 immediately. I have no urgent need for money so I'd be willing to wait.
+Male,Caucasian,24,4,2,2,150.0,"I would rather have more money in one month. 50 dollars is not a big enough amount of money to make much of a difference to me right now, so I would rather put it off and get a larger amount of money later. 150 dollars seems like a reasonable amount to receive for waiting a month."
+Female,Caucasian,40,4,2,2,60.0,"I have no guarantee that in a month I will receive this money. Therefore if I will agree to wait month before them to receive, I would like to obtain compensation for uncertainty."
+Male,Caucasian,21,4,2,2,70.0,"In order to wait a month for the money, I would need to get an additional $20 or more. I would prefer to receive about $5 more for every week that it would additionally take to receive my money."
+Male,Caucasian,25,4,2,2,55.0,"I would wait one month for anything over $55.  One month is not a long time to wait and a 10% increase in winnings is worth it.  I am always willing to put off gaining money if it will increase my earnings, especially when I don't need that money at the moment."
+Male,Caucasian,21,4,2,2,80.0,It is hard to turn down money that is right in front of me even if I would be receiving slightly more in a month. The amount that I would receive in a month would have to be somewhat significant for me to wait. 
+Female,Caucasian,46,4,2,2,70.0,It would depend on my financial situation at the time. If I didn't need the money I would wait a month for more money at any amount.  If I needed the $50 I would just take it now.  In my current situation I would wait 1 month for an extra $20.
+Male,Caucasian,30,4,2,2,75.0,"I'd wait, if I could if it was $75. Being that uch more would be better than any other interest or investment."
+Female,Caucasian,29,4,2,2,75.0,"It would be worth it to wait for 1 month for $25.  That way it seems more like an investment, rather than a prize I could ""just blocw"" and wasn't expecting."
+Female,Caucasian,18,4,2,2,55.0,"It wouldn't take much more than $50 to justify waiting a month. I don't have monthly bills to pay because I go to college and have a full scholarship, and my parents pay for my phone. When I want to buy something, it's more long-term, so I wouldn't mind waiting a month to get money, especially when it's something I won and didn't have to work for."
+Male,Caucasian,20,4,2,2,200.0,Probably receive more in 1 month. $50 isn't much but I'd like to have more.
+Female,African American,34,4,2,2,150.0,If I wan able to get $150 in a month i would wait til then b/c a month is not a long time t o wait.
+Female,Caucasian,27,4,2,2,55.0,I don't think that a month is that long to wait for extra money. You are making pure profit simply by waiting. 
+Female,Caucasian,24,4,2,2,60.0,My boyrfriend and I don't even have enough money to buy groceries so we'd be willing to wait for extra money.
+Male,Caucasian,29,4,2,2,200.0,It would have to be atleast double if not more for me to wait. If they offered 100 or 200 I would definetely wait. It would all depend on the amount
+Female,Caucasian,58,4,2,2,100.0,If I had to wait I would expect 100.00 for waiting .  This is because it could be used for the time I had to wait
+Male,Caucasian,33,4,2,2,75.0,"I think that a 50% bump would be appropriate -- even though to save the money I wouldn't get that much interest, $75 sounds like a good number in my mind.  "
+Male,Caucasian,26,4,2,2,150.0,I will get 150 because i dont like to wait one month for 50
+Male,Caucasian,53,4,2,2,100.0,"I wouold wait for 100 dollars.  If I didnt get that much I really wouldn't wait, I would want to ue the fifty right away.  Why hould I wait unless it was worth it."
+Male,African American,24,4,2,2,100.0,I would have to receive at least double the initial amount to wait a month.  I feel that unless I am increasing my win by 100% then I'd rather just take the $50 since I didn't expect to get it.
+Female,Caucasian,35,4,2,2,100.0,I would want it to be at least double. $50 is a small amount to win- much less to wait a month to be awarded.
+Male,Caucasian,41,4,2,2,75.0,75 would make me want to wait a month - more would be better if that was possible. I think the extra 25 would make it worthwhile
+Male,Caucasian,45,4,2,2,55.0,I am always focused on delaying gratification and the value of maximizing one's money so I would require $55 (or a $5 increase) for waiting one month.   That would be a 10% return for 30 days - which is an excellent return from a financial perspective.   
+Male,Asian American,24,4,2,2,54.0,needs to be at least 7% or more to match a potential 7% return if you were to invest the 50$ for a month.
+Female,Caucasian,19,4,2,2,100.0,"Well, in winning a raffle you'd have some excitement and you'd always be expecting the best/more. I think if I had the chance to have $50 now, or wait a one month period I'd want that $50 doubled to $100. I think that makes the most sense."
+Female,Caucasian,24,4,2,2,100.0,I would have to have won at least $100 in order for me to wait a whole motn to receive my payment. I think that the amount that I previously stated is a wait worthy amount.
+Male,Caucasian,22,4,2,2,65.0,I would say $65 or 30% more. IF the month has 30 days it would be $0.50. I would not consider $50 a lot of money and could therefore wait a month without needing it.
+Male,Caucasian,35,4,2,2,75.0,"I would require $75 to wait a month, probably because the $25 extra dollars would be nice and it would only take 31 days to get the extra $25.  $50 dollars won't change my life and I won't really miss it, and I'd rather have the $75.  If it's much less than $75 then I just think I'd take the $50 right now."
+Male,Caucasian,23,4,2,2,70.0,Probably 70 dollars. An extra 20 bucks could help me get a tank of gas!
+Male,Hispanic,22,4,2,2,80.0,I would wait the month for more money. I am the kind of guy that would rather wait for more than settle now. I feel that America's instant gratification culture has made too many people look at what would be most satisfying now rather than what would truly be better for them in the long run. 
+Male,Hispanic,30,4,2,2,60.0,"Since I do not have an immediate need for $50 at this time, I wold be satisfied with just slightly a bit more money. I would actually prefer to wait a month to receive the reward, even if it was just $1-2 more dollars."
+Male,Caucasian,26,4,2,2,100.0,"I would need at least twice the amount, $100.  This is because money is scarce at the moment, and the $50 alone would be a big help."
+Male,Caucasian,22,4,2,2,51.0,I don't need the money right now.  i have enough to make do and i would just rather get the more money.  The only thing I care about is beating inflation or opportunity costs (e.g. compound interest) and I totally guesstimated the amount that would do that because I don't know.
+Female,Hispanic,20,4,2,2,50.01,"Any amount of money over $50 I would be willing to wait one month for. I believe since I didn't have the $50 to start with, waiting another month to get $50.01 wouldn't be that bad."
+Male,Caucasian,62,4,2,2,65.0,I would accept $65 to wait one month. This is an increase of $15 which would work out as a very high interest rate. I would have the patience to wait and I think it would also give me  time to really explore the options I could choose from with the additional money.
+Female,Caucasian,24,4,2,2,75.0,I would choose to wait for the rest because more money is always good.
+Female,Caucasian,39,4,2,2,70.0,"I am not strapped for money at the moment, so I would totally be willing to wait a month for even more money.  It's kind of like money in the bank.  It would give me a month to decide whether or not I want to save the money or splurge on something I've wanted to get but couldn't quite afford yet."
+Female,Caucasian,20,4,2,2,150.0,"If I were to just simply get $100 in a month, that is doubling the original amount, I would decline. Time is money, so in order for me to want to wait a month it must be atleast $150, which triples the original amount."
+Female,Caucasian,30,4,2,2,100.0,I would require probably double the amount to keep me waiting an additional month.  Either one is a small amount of money and I would not be able to focus on the fact that even a small increase is worth waiting a month.
+Female,Other,19,4,2,2,60.0,"I have a choice between getting $50 to spend immediately and getting more money to spend a month later. Thus, if I choose the latter option, I may have to forgo some opportunities in the month's interim that I'd be able to do with $50 of instant cash."
+Male,Caucasian,21,4,2,2,100.0,"The time value of money is that it is more valuable to have the money now than sometime in the future, so I would rather  have the $50 now than have to wait a month.  In order to wait a month, I would require an amount double to the original offer."
+Male,Caucasian,20,4,2,2,150.0,"It would have to be at least 3 times more money ($150).  I would be waiting for an extra month, and that could be hard if I desperately needed the money.  That is why it would need to be at least a hundred and fifty dollars."
+Female,Caucasian,29,4,2,2,55.0,Any amount of money would makin waiting one month just as attractive as getting the payment now. As little as $5 more in one month could be considered a 10% profit on the original winnings.
+Male,Caucasian,25,4,2,2,60.0,"If I don't need the money now, I would be willing to wait for a larger amount."
+Female,Pacific Islander,52,4,2,2,100.0,"I would want to wait one month. I would at least expect the reward to be doubled if I were to wait longer to receive it. After all, I could have gotten a little bit of interest or invested the $50 if I got it immediately."
+Female,Caucasian,35,4,2,2,70.0,I AM PRETTY POOR RIGHT NOW SO I WOULD WAIT AN EXTRA MONTH FOR $20 OR MORE.
+Male,Caucasian,32,4,2,2,100.0,if the amount was less than double of the original prize it would not be worth my time waiting. i would rather have the 50 now to pay bills ahead of time.
+Female,Hispanic,19,4,2,2,500.0,i would wait one month for more than 500 $ because that is less than a pay check and enough to make me happy 
+Male,Caucasian,25,4,2,2,300.0,"I am pretty broke right now so I can use the money now.  I mean, I'm doing mechanical turks on Amazon during my free time when I could be doing something else.  That should say it all."
+Female,Caucasian,27,4,2,2,60.0,I chose $60 because it is $10 more. $50 is not much money and I can't  do much with it in a month so having $10 more in a month is just as attractive.
+Female,Asian American,22,4,2,2,60.0,"I would wait one month for $60. That is 20% more than the original, and I can think of a few things I'd like to buy with $10."
+Male,Caucasian,53,4,2,2,75.0,"I would expect the payment to be $75.00 or more to delay the payment to a later time.  However, for a short delay of one month, I may accept the later payment for more regardless of how much more"
+Female,Caucasian,48,4,2,2,100.0,"I would wait 1 month if the increase was 100.00. I could use that money to pay bills, food or fuel to keep warm."
+Male,Caucasian,26,4,2,2,100.0,"Most likely I would take the larger amount of money.  Mainly I would do this because of the obvious, which is that it is more money.  But also a wait of a month is not that long and receiving 50$ up front is not a huge gain anyway."
+Female,Caucasian,34,4,2,2,53.0,I would wait for another month for a couple extra dollars.  If I could make more money by waiting than that would be the way to go
+Female,African American,32,4,2,2,60.0,"I would want at least 60 more dollars. If I have to wait another month, I believe it should pay off."
+Female,African American,57,4,2,2,100.0,"""Anything worth having is worth waiting for"".  Double the amount would make the amount worth waiting."
+Female,African American,27,4,2,2,200.0,If I was offered a couple of hundred more I would wait one month. I can pay a bill with lets says 200 hundred dollars and the only thing I can do with 50 is probably get some fast food.
+Male,African American,31,4,2,2,90.0,I would choose to receive more than 50 dollars in one month. I'm a situation where I can wait to receive more since I'm doing ok money wise at the moment. 
+Female,Caucasian,29,4,2,2,100.0,"If my amount won was doubled or tripled in one months time I would consider waiting. However, if it was only say about $10-$30 more then I would choose to take the original amount won right then."
+Female,Caucasian,57,4,2,2,100.0,"I think the amount should be doubled if I have to wait one month, so $100.00 total would do it for me. The reasoning behind this is that it wouldn't be worth my time to wail for a smaller amount. "
+Female,Caucasian,36,4,2,2,100.0,i would rather wait to recieve the money. Waiting for more is worth it
+Female,Caucasian,27,4,2,2,200.0,"If I had to wait a month, I'd be willing to accept $200 for the wait.  Good things come to those who wait, is what would be running through my mind.  Even though it would be nice to have $50 now, it'd be even better to have $200 a month from now."
+Female,Caucasian,43,4,2,2,100.0,I would wait for another month if it was doubled in amount. Its not that much longer and you would double your earnings.
+Male,African American,34,4,2,2,150.0,I would want to recieve at least 150 in return because I would want to charge at least some interest on the  original 50 dollars. / My time waiting i could of have made 50 dollars of my 50 dollars .
+Male,Caucasian,40,4,2,2,60.0,"To me, $50 is not that large an amount to begin with, and waiting a month to receive the payment is not that long to wait.  I would expect to be paid more as a reward for waiting, but it doesn't need to be a lot more compared to the original amount."
+Female,Asian American,25,4,2,2,100.0,"If the amount were doubled, I would be more willing to wait a month for the reward. Waiting a month and getting an extra $50 without really doing much work isn't such a bad deal. "
+Female,Caucasian,19,4,2,2,60.0,i would wait one month if the money was $60 or more. I am a college student who is poor as it is so anything more than $50 would be great.
+Male,Caucasian,54,4,2,2,60.0, Any increase would be worth the wait if I'm not broke or hungry. I had nothing to start with and free money is free money.
+Female,Caucasian,22,4,2,2,100.0,I believe doubling the amount I'd get would be make the money a lot more attractive. I believe it is worth it to wait for a month to get more money.
+Male,Caucasian,25,4,2,2,200.0,I would think about how bad i needed the money at that moment. If i really needed it i would take it right away but if was to get 4 times the amount of money in a month that would make it more appealing for me to wait. if it was just double the amount of 50 dollars then i would definitely take it right away.
+Female,Caucasian,39,4,2,2,100.0,The amount of the raffle would have to double.  Getting $100 would be great.
+Male,Caucasian,18,4,2,2,57.0,I would like to get paid now. Waiting hurts. I get older. Not to mention inflation. 
+Male,Caucasian,44,4,2,2,100.0,"I would wait for nothing less than 100.00 In my current financial state, I would be tempted to grab the 50, but my survival instincts would kick in, rationalizing the wait. I would not overspend that month so as not to invalidate that reward."
+Female,Caucasian,20,5,1,3,200.0,
+Female,Caucasian,55,5,1,3,300.0,
+Male,Caucasian,47,5,1,3,125.0,
+Male,Caucasian,49,5,1,3,150.0,
+Male,Caucasian,57,5,1,3,105.0,
+Female,Caucasian,45,5,1,3,150.0,
+Female,Caucasian,31,5,1,3,200.0,
+Female,Caucasian,22,5,1,3,150.0,
+Female,Caucasian,23,5,1,3,110.0,
+Female,Caucasian,32,5,1,3,200.0,
+Male,Caucasian,27,5,1,3,150.0,
+Female,Caucasian,22,5,1,3,120.0,
+Female,Caucasian,55,5,1,3,110.0,
+Male,Caucasian,50,5,1,3,150.0,
+Female,Caucasian,34,5,1,3,500.0,
+Male,Caucasian,23,5,1,3,110.0,
+Male,Asian American,32,5,1,3,150.0,
+Male,Caucasian,18,5,1,3,300.0,
+Female,Caucasian,22,5,1,3,105.0,
+Female,African American,50,5,1,3,125.0,
+Male,Caucasian,51,5,1,3,200.0,
+Female,Caucasian,20,5,1,3,500.0,
+Female,Caucasian,24,5,1,3,200.0,
+Female,Caucasian,40,5,1,3,200.0,
+Female,Caucasian,59,5,1,3,110.0,
+Female,Caucasian,24,5,1,3,200.0,
+Male,Caucasian,24,5,1,3,2000.0,
+Male,Caucasian,25,5,1,3,130.0,
+Male,Caucasian,25,5,1,3,150.0,
+Female,Caucasian,26,5,1,3,175.0,
+Male,Caucasian,30,5,1,3,200.0,
+Female,Caucasian,36,5,1,3,150.0,
+Male,Caucasian,40,5,1,3,140.0,
+Female,Caucasian,48,5,1,3,200.0,
+Male,Caucasian,45,5,1,3,130.0,
+Male,Caucasian,68,5,1,3,110.0,
+Male,Caucasian,35,5,1,3,125.0,
+Male,Caucasian,37,5,1,3,150.0,
+Male,Hispanic,25,5,1,3,300.0,
+Male,Asian American,18,5,1,3,150.0,
+Female,Caucasian,41,5,1,3,200.0,
+Male,Caucasian,21,5,1,3,200.0,
+Female,Caucasian,30,5,1,3,500.0,
+Male,Asian American,30,5,1,3,900.0,
+Male,Caucasian,28,5,1,3,500.0,
+Male,Caucasian,35,5,1,3,180.0,
+Female,Caucasian,64,5,1,3,150.0,
+Male,Asian American,18,5,1,3,120.0,
+Male,Caucasian,23,5,1,3,150.0,
+Male,Caucasian,26,5,1,3,110.0,
+Male,Caucasian,22,5,1,3,200.0,
+Male,African American,19,5,1,3,120.0,
+Male,Asian American,30,5,1,3,180.0,
+Male,Caucasian,18,5,1,3,100000.0,
+Male,Caucasian,27,5,1,3,200.0,
+Male,African American,25,5,1,3,200.0,
+Male,Caucasian,21,5,1,3,500.0,
+Female,Caucasian,18,5,1,3,200.0,
+Male,Asian American,19,5,1,3,150.0,
+Male,Caucasian,29,5,1,3,200.0,
+Male,Caucasian,28,5,1,3,120.0,
+Male,Caucasian,28,5,1,3,110.0,
+Female,Caucasian,20,5,1,3,150.0,
+Female,African American,22,5,1,3,250.0,
+Male,Caucasian,30,5,1,3,150.0,
+Male,Caucasian,22,5,1,3,350.0,
+Male,Caucasian,41,5,1,3,110.0,
+Male,Caucasian,41,5,1,3,150.0,
+Male,Caucasian,32,5,1,3,125.0,
+Male,Hispanic,21,5,1,3,200.0,
+Female,Caucasian,23,5,1,3,200.0,
+Male,Caucasian,28,5,1,3,140.0,
+Male,Caucasian,23,5,1,3,200.0,
+Male,Caucasian,39,5,1,3,125.0,
+Female,Caucasian,29,5,1,3,500.0,
+Female,African American,50,5,1,3,150.0,
+Female,Caucasian,39,5,1,3,200.0,
+Female,Asian American,29,5,1,3,500.0,
+Female,Caucasian,24,5,1,3,150.0,
+Female,Caucasian,26,5,1,3,150.0,
+Female,African American,32,5,1,3,150.0,
+Male,Caucasian,27,5,1,3,500.0,
+Male,Caucasian,21,5,1,3,125.0,
+Female,Caucasian,49,5,1,3,150.0,
+Female,Caucasian,19,5,1,3,300.0,
+Male,Caucasian,27,5,1,3,150.0,
+Female,African American,25,5,1,3,200.0,
+Female,Caucasian,48,5,1,3,150.0,
+Male,African American,24,5,1,3,110.0,
+Male,Asian American,24,5,1,3,133.0,
+Male,Caucasian,73,5,1,3,125.0,
+Male,Caucasian,19,5,1,3,150.0,
+Female,African American,33,5,1,3,200.0,
+Female,Caucasian,35,5,1,3,150.0,
+Male,Caucasian,24,5,1,3,125.0,
+Male,Caucasian,27,5,1,3,175.0,
+Male,Caucasian,20,5,1,3,165.0,
+Female,Asian American,22,5,1,3,200.0,
+Male,Caucasian,42,5,1,3,200.0,
+Male,Hispanic,35,5,1,3,200.0,
+Female,Caucasian,41,5,1,3,500.0,
+Male,Asian American,42,5,1,3,150.0,
+Female,Caucasian,35,5,1,3,200.0,
+Male,Caucasian,40,5,1,3,125.0,
+Female,Caucasian,32,5,1,3,200.0,
+Male,Caucasian,22,5,1,3,150.0,
+Male,Caucasian,28,5,1,3,200.0,
+Female,Caucasian,30,5,1,3,50000.0,
+Male,Caucasian,20,5,1,3,500.0,
+Female,Caucasian,24,5,1,3,150.0,
+Female,Caucasian,21,5,1,3,300.0,
+Male,Caucasian,41,5,1,3,125.0,
+Female,Caucasian,21,5,1,3,200.0,
+Female,Caucasian,50,5,1,3,125.0,
+Male,Caucasian,29,5,1,3,125.0,
+Female,Caucasian,30,5,1,3,110.0,
+Female,Caucasian,46,5,1,3,125.0,
+Male,Caucasian,21,5,1,3,120.0,
+Male,Hispanic,24,5,1,3,200.0,
+Male,Asian American,17,5,1,3,200.0,
+Male,Caucasian,29,5,1,3,200.0,
+Male,Caucasian,26,5,1,3,200.0,
+Male,Caucasian,37,5,1,3,110.0,
+Female,Caucasian,41,5,1,3,200.0,
+Male,African American,24,5,1,3,200.0,
+Male,Caucasian,54,5,1,3,120.0,
+Female,Caucasian,34,5,1,3,125.0,
+Male,Caucasian,24,5,1,3,150.0,
+Male,Caucasian,24,5,1,3,200.0,
+Male,Caucasian,18,5,1,3,200.0,
+Male,Caucasian,28,5,1,3,5000.0,
+Male,Caucasian,26,5,1,3,200.0,
+Female,African American,28,5,1,3,500.0,
+Male,Caucasian,29,5,1,3,110.0,
+Male,Caucasian,52,5,1,3,200.0,
+Male,Caucasian,25,5,1,3,200.0,
+Female,African American,27,5,1,3,300.0,
+Male,Caucasian,24,5,1,3,250.0,
+Female,Caucasian,21,5,1,3,300.0,
+Female,Caucasian,28,5,1,3,400.0,
+Female,Caucasian,29,5,1,3,120.0,
+Female,Caucasian,51,5,1,3,150.0,
+Female,Caucasian,36,5,1,3,200.0,
+Female,Caucasian,28,5,1,3,150.0,
+Male,Caucasian,20,5,1,3,300.0,
+Female,Caucasian,31,5,1,3,200.0,
+Male,Caucasian,21,5,1,3,150.0,
+Male,Caucasian,22,5,1,3,500.0,
+Female,Caucasian,28,5,1,3,150.0,
+Female,Caucasian,27,5,1,3,150.0,
+Female,African American,21,5,1,3,500.0,
+Male,Caucasian,37,5,1,3,120.0,
+Male,Caucasian,49,5,1,3,250.0,
+Male,Caucasian,45,5,1,3,110.0,
+Male,Asian American,23,5,1,3,200.0,
+Female,Asian American,27,5,1,3,200.0,
+Female,Caucasian,21,5,1,3,180.0,
+Female,African American,23,5,1,3,1000.0,
+Female,Caucasian,29,5,1,3,175.0,
+Male,Caucasian,38,6,2,3,250.0,"I would be willing to wait a month for a minimum of $150 more.  My logic for this is that I do need $100 right now, but I would not be very smart to not be willing to wait one month in order to recieve that amount more"
+Male,African American,19,6,2,3,300.0,"If I won a raffle for $100 I probably would take it now. But if in a month it was $300 or more, I would wait. I need the money."
+Female,Caucasian,22,6,2,3,150.0,"I would need the money to be $150 to wait a month for it. This is because I could use the mony now, so it would have to be a big enough difference to make it worth the wait."
+Male,Caucasian,25,6,2,3,101.0,Any whole dollar amount over $100 would be acceptable as it is a good percentage return. For example $101 would equate to a 12% apr.
+Female,Caucasian,36,6,2,3,120.0,"A month is not a terribly long time.  Plus, $100 will not make or break my life.  It would not take a lot to make me wait.  I could not invest the $100 and get $20 back most likely, so I would be willing to wait a month for that."
+Female,Caucasian,29,6,2,3,150.0,"I would want to receive at lease 150 to wait that amount of time. If I was going to have to wait for that amount of money, which would be nice to win, but not a huge change in my economic status, I would at least want 150. That way, it would make it seem worthwhile that I had waited that amount of time as opposed to immediately having some fun money to spend shopping. "
+Female,Caucasian,49,6,2,3,125.0,I would probably be willing to wait for a month to get an extra $25 because that would be about enough to make the wait seem worthwhile.
+Female,Caucasian,59,6,2,3,110.0,"$110. waiting one month is nothing. If it were longer, i'd probably want a little more."
+Female,Caucasian,40,6,2,3,200.0,I would wait a month to double my winnings. I do not spend or count on cash until it is in my hand/account. Waiting 30 days to double my winnings would be very attractive to me.
+Male,Caucasian,25,6,2,3,350.0,"Winning $100 is pretty appealing to me, if I were to receive it right now. I would have to say that a much larger sum would be required for me to accept it one month from now. I am unemployed so money now is more important that money later."
+Female,Caucasian,60,6,2,3,250.0,"I would wait one month if the amount were at least doubled. Tripling the amount would be preferrable, but not necessary. "
+Male,Caucasian,27,6,2,3,200.0,I would like to receive about $25 per week that I put off on receiving the prize. This just seems like a reasonable number to me.
+Male,Caucasian,19,6,2,3,150.0,An extra $50 is worth a fair amount to me. Anything less wouldn't be worth the wait really because I would rather just spend or have the money now.
+Male,African American,22,6,2,3,300.0,"It would require that the amount be $200 or greater. The whole purpose is to flip your dollar, sometimes it takes a day, sometimes it takes a month. I I were to receive $100, I would be looking for opportunities to spend money to make it back plus interest. In this case if I were guaranteed $100 today with intentions on flipping it, and the option comes where I would get a chance to flip $100 into  $200 with a small sacrificial wait period, I would absolutely hope on it. "
+Female,Caucasian,28,6,2,3,150.0,"I would wait if I got $150. The money is extra, not expected, so I would pretend I didn't have it and make more use of it later."
+Male,Caucasian,28,6,2,3,300.0,Depends on how mucht time are given for reward. It can be for example may be for a week and is $ 300 .
+Female,Caucasian,42,6,2,3,120.0,"I would prefer it now unless it was a lot more, otherwise I'd want to pay off my debt."
+Female,African American,23,6,2,3,120.0,"Winning a raffle is always nice because its not guaranteed.  To win more by just waiting would be fine by me because its money I didn't have in the first place.  I would wait a month to receive at least an extra $20 to bring my total raffle prize to at least $120, otherwise , I would just take the $100 at the time."
+Female,Caucasian,50,6,2,3,110.0,"I do not need the $100 today.  Given that I am not in a hurry to get the money, I'd be willing to wait a month for a relatively little bit extra."
+Male,Caucasian,42,6,2,3,125.0,"It would have to be fairly substantial, perhaps twenty five percent more, to put off the taking the money now. Delaying a month for an extra five or ten dollars just would not be worth it to me. "
+Female,Caucasian,19,6,2,3,200.0,"I would need for it to be about $200. I have car insurance due this month, and not a lot of money to pay it. $100 now would be really helpful, since I need the money pretty badly. However, $200 later could completely pay the insurance, and I could get by with what I have now."
+Female,Caucasian,35,6,2,3,120.0,"I am worried about the future. I would rather have the money now to ensure that I get it, versus a promise of later that they may not deliver upon. Or inflation, and the money is worth less then."
+Male,Caucasian,32,6,2,3,120.0,For me to wait I would need a decent incentive. For me 20 dollars would be about right. It's 20 percent of the original amount and would be enough for me.
+Male,Caucasian,33,6,2,3,110.0,"I would find it prudent to wait a month since there is certainty of my monetary prize being larger. Moreover, given our current income and ability to manage our finances, I would not terribly miss $100 that I never had in the first place."
+Male,Caucasian,18,6,2,3,150.0,I would like the reward to be at least 50% more than $100. The extra 50 dollars would be my incentive to wait.
+Male,Caucasian,25,6,2,3,107.0,I would need at least $7 more to delay the reward a month because that is roughly an 8% ROI. If I received less than that my ROI would be less than I can make via other methods such as trading of stocks and micro finance loans. While it is better than a bank savings rate it is not better than I can do on my own.
+Male,Asian American,18,6,2,3,110.0,I honestly wouldn't need much more money to convince me to wait one month. As long as the payment for waiting was at least 10% larger I would be willing to wait. It's not as if I need the $100 immediately for something urgent.
+Male,Caucasian,20,6,2,3,125.0,"I'd only take a minimum of $125 if I had to wait a month, since any less doesn't feel like it'd simply be worth the time. I could use the money now, and despite any other amount being higher, it wouldn't have as much worth."
+Male,Caucasian,21,6,2,3,125.0,"I am in no dire need for the one hundred dollars now. Consequently, it would not require much more money for me to wait one month to get payed."
+Male,Asian American,21,6,2,3,2000.0,I would require 2000 dollars to make waiting an option. It would be much more worth while if I were to receive double the money later rather than now. It would be like an interest rate on the winnings.
+Male,Caucasian,28,6,2,3,105.0,"I would not require much more than the original $100 prize because interest rates are so low, I would be happy with a small ""return"" on my ""investment."" I would be really happy with $105 because that would be a 5% return in one month."
+Male,Caucasian,30,6,2,3,300.0,I make about $300 a month from using Mturk. I would have to be paid at least that amount of money to wait one month.
+Male,Caucasian,33,6,2,3,150.0,"I would want to have at least 50 dollars more in a month. That way I am getting a 50% gain on the money that is being held out on.  Since it's only a month, 50 dollars would be fine, but if it were a longer period of time I would want more."
+Male,Caucasian,25,6,2,3,110.0,"I would prefer to receive $110.  It is a little more, and enough for me to wait a month to receive it.  A month isn't that long, and I am not in desperate need of that money."
+Male,Asian American,23,6,2,3,150.0,It would be difficult to find anything that would give you this type of return over this time frame so I would ask for the below amount simply because of the amount of time that I would have to wait. If it were a longer time frame it could be argued that you could invest the $100 and earn the requested amount. 
+Female,Caucasian,20,6,2,3,1000.0,"if i didnt need the money know, why not wait and gather interest ont it"
+Male,Caucasian,21,6,2,3,200.0,"For me to wait one month, I would want it doubled. I'm in need of the extra money, so taking the initial $100 would be the ideal."
+Male,Caucasian,19,6,2,3,105.0,"It barely matters when I receive the money, as long as I receive it, so I only chose $5"
+Male,Caucasian,27,6,2,3,300.0,I would want to take the money now and not wait. I could use the money immediatly and would not want to wait. Waiting for the money would take a while and I would want more than 100.
+Male,Caucasian,26,6,2,3,110.0,"I don't need money too terribly and I am not a great investor, so realistically, I'd probably just blow the money or save it, and the interest rate on $100 wouldn't be too great, so a nominal increase over the $100 would be ok with me."
+Male,Caucasian,22,6,2,3,200.0,It would actually only takes me roughly to 200$ to get me to take the one month option. The reason for this is because it is short term for a 100% increse in the amount that I could easily wait the one month for the added benefits. 
+Female,Caucasian,34,6,2,3,150.0,I think that it would have to be at least half more.  It would be hard to wait for a month for anything less then that.  100 now would be enough for a nice dinner and movie for my husband and I.
+Female,Caucasian,21,6,2,3,200.0,$200  /  / I do not think one month is that long of a time to wait to double your reward.  $100 will not break or make me in a month.
+Female,Caucasian,42,6,2,3,125.0,I could really use the money now.  It would take a substantial amount to make me wait.
+Female,Caucasian,35,6,2,3,500.0,Right now I am really strapped for cash so it would have to be pretty large in order for me to wait.
+Male,African American,29,6,2,3,200.0,I would cash in on my reward. Money isn't everything. I was raised to get it while the getting was good.
+Female,Caucasian,20,6,2,3,115.0,I would choose to wait if the value increased to $115 or more because I dont really need the money now and it would be worth it to get more later
+Male,Caucasian,31,6,2,3,1000.0,"I would wait a month, because the gain will be far greater in the end, I think. Maybe it would not though."
+Female,Caucasian,23,6,2,3,150.0,"50, any money is more money, and a month is not that far away."
+Female,African American,55,6,2,3,200.0,I would wait 1 month to receive $200 because I would double my money. That timeframe isn't very long based on the reward.
+Female,Asian American,18,6,2,3,400.0,"I'd say about 300$ more. I'd like money sooner rather than later, but that much is worth it. "
+Female,Caucasian,21,6,2,3,150.0,"I'm a patient person. i.e. getting $150 is better than $100, and is worth waiting for. For a few dollars, I'd rather take the money upfront and put it toward something right away. "
+Male,Hispanic,26,6,2,3,110.0,"The money isn't a pressing need for me right now.  Since I can't make much in interest by saving it I would wait for almost anything.  However, it would have to be enough that I 'd risk forgetting to cash in my winning raffle ticket."
+Male,Hispanic,35,6,2,3,200.0,"100. / It would take 100 or 100%, the reasoning lies in, the company offering the prize has money to give away, therefore they will just be playing with me by making me wait. i could ask for any amount, but i ask a 100% of the prize for it will be unreasonable to ask for more, and unreasonable for not getting 100% more of the winnings, therefore everyone happy."
+Female,Caucasian,23,6,2,3,110.0,"Having money right now is tempting, since I could use it to either pay back my parents or to spend on something I need, like new sneakers. As such, I'm more likely to accept $100 right now instead of waiting a month to get $100 plus a negligible amount more (such as $105)."
+Male,Caucasian,27,6,2,3,400.0,"The reasoning behind needing the amount below would be that the infusion of cash 100 dollars can make instantly is about 4 times as much as having to wait for it for 1 month. Having 100 dollars now can only get you so much and if you need it now it may be attractive, but because I make money in another way an extra hundred dollars in a month won't matter, but if it is significantly more it may be worth the wait"
+Male,Caucasian,24,6,2,3,200.0,I would wait for a few more dollars just because I know I dont need it yet.
+Female,African American,28,6,2,3,200.0,I would require double since I had to wait longer time is money
+Male,African American,59,6,2,3,250.0,i just feel $250 would be a decent amount if i had to wait for money.
+Male,Hispanic,23,6,2,3,200.0,"One month isn't really that long, but the amount has to be a little bit more for me to wait. I would say the amount that I would wait a month for would be at a miniumum of 200 dollars. "
+Male,Caucasian,29,6,2,3,110.0,"I would only require $110 dollars.  I came to this conclusion because $100 is not a significant amount of money and by waiting 1 month, I could get a 10% return on my money.  "
+Male,Caucasian,25,6,2,3,200.0,"more money is more money and i don't need the money that badly immediately, so i would gladly take 100 extra dollars  a month later."
+Male,Caucasian,24,6,2,3,140.0,"I would wait 1 month if I was to get more money later. I think that if I was given at least $20-$40 more, I would wait a month. The reason I would accept more cash later, is that if I have the cash now, I will spend it now. If I can wait and then get more, I'm all for that."
+Male,Caucasian,27,6,2,3,150.0,"in order to choose the the money in a month, i would require at least $50 more a month.  As i see it, the extra $50 would serve as a waiting fee or inconvenience fee.  So, in a month i would ask for $150 or accept the $100 this month."
+Female,Caucasian,31,6,2,3,1800.0,"I would wait the month. The reason the I would request 1800 is because it would pay my next months bills. I could skate by without the 100, but $1800 would be far more beneficial to me. "
+Female,Caucasian,48,6,2,3,105.0,"I can't earn much money in my bank account.  However, I don't mind waiting a month.  I would need only a small amount extra to wait a month."
+Male,Caucasian,35,6,2,3,150.0,It would have to be at least 150. It would not be worth it if it was less than that unless you are ready had plenty of money and 100 is not anything to you to begin with. 
+Female,Caucasian,43,6,2,3,125.0,"The amount of money involved is very small so I would rather have the payment now.  An additional $25 is a significant amount (but still small) so I would be willing to accept it.  A ""reasonable"" return on investment such as 4% or 10% is just too little to bother with when the initial amount is only $100."
+Male,Caucasian,43,6,2,3,120.0,"I would want $120 a month from now - an extraordinarily high % ""interest"", but a nominal amount since the prize is only $100"
+Female,Caucasian,32,6,2,3,500.0,$500 would be worth 1 month.  $100 for each week I had to wait plus the original $100
+Female,Caucasian,27,6,2,3,150.0,I would love to have the money now but if i wait just one moth i would get more would make me feel like i have done more.  I would feel as thow it was a btter investment to wait the one extra month.  Im not sure that the amound it would require for me  to wait a month would be availbe becasue i would rather have the money now. 
+Male,Caucasian,24,6,2,3,200.0,I would say an extra 100 dollars would make me agree to wait more.  Anything less than double the original amount doesn't really seem worth it because something could happen and I could end up getting no money.  I'd rather take the 100 right away if I was only going to receive a little more next month
+Female,Asian American,26,6,2,3,110.0,"The $100 would be nice immediately, but I don't desperately need the money.  I would be willing to wait for a higher amount for the short period of one month.  "
+Female,Caucasian,20,6,2,3,150.0,"I would need to recieve at least another fifty dollars to make it more lucrative to get the reward next month. Thinking about it, a month later isn't a long time to wait, but if you'd just won a contest you probably want to get your money pretty quickly. Fifty dollars would be enough to make me fine with waiting another month."
+Female,Caucasian,24,6,2,3,200.0,I would have to recieve a minimum of $200. If not I would want my $100 immediately.
+Male,Caucasian,38,6,2,3,150.0,I guess $150 or more... It has to be worth it and I think an extra $50 would do the job!
+Female,African American,21,6,2,3,150.0,If I were to get at least 50.00 I would wait. Less than that would not be worth waiting for me. 
+Male,Caucasian,53,6,2,3,250.0,I would have to take market risk. Why is their a delay in payment ? I would have to take economis risk ? How much is the $100 worth 30 days later ?
+Female,African American,28,6,2,3,250.0,"It all depends on how much over $100, if i be be willing to wait. if it was 250 i would be willing to wait the month, but if it was any less than that, i would take the 100."
+Male,African American,19,6,2,3,150.0,"For the 1 month wait to be as attractive, the amount would have to be at least $50 to $100. Anything below could be earned on my own within that timeframe. "
+Female,Caucasian,28,6,2,3,200.0,$200  I would need the amount to be at least doubled for me to bother waiting a month to receive it.
+Female,Hispanic,28,6,2,3,180.0,"To make me wait it would have to be at least more than 50 %, otherwise is not worth it."
+Female,Caucasian,52,6,2,3,200.0,I could really use the money now so I would want at least to double the amount to wait 1 month.
+Male,Caucasian,54,6,2,3,200.0,"To make waiting 1 month worthwhile, the money would have to be doubled.  This is mostly because of the percieved inconvenience of waiting, and the presumption that I would experience some degree of hardship while waiting to be paid.  Also, there's a sense that the money loses value over time, and waiting for a payout diminishes the actual purchasing power of the sum."
+Male,Caucasian,23,6,2,3,110.0,"Waiting another month for money would normally not be a big deal at all. Especially if there is an added bonus involved. there really isnt a scenario where I wouldnt wait, unless of course I really needed the $100 now"
+Female,Caucasian,29,6,2,3,200.0,"I would wait a month for $200 or more. $100 isnt a whole lot of money, so it would be worth it for me to wait and potentially double it."
+Female,Other,31,6,2,3,300.0,3 months worth of money at once. I would look for a larger lump payment because spending $100 is too easy. If it were received in larger sums it would make putting it into savings a lot easier. And also give me time to fiugre out how I want to allocate it.
+Female,Caucasian,22,6,2,3,500.0,"I would require $500 if I had to wait a month. Any less than that would not be worth waiting for because I could put the initial $100 to good use. If I am going to wait for the money, I would need to feel like I am being rewarded for waiting. "
+Female,Caucasian,31,6,2,3,150.0,"It'd have to be enough to do something extra with next month in addition to what I'd use the money for now.  As I'd put it towards my credit card, I'd need to amount to increase more then the intrest charge on my creditcard for that month."
+Male,Caucasian,22,6,2,3,300.0,"300 is the absolute minimum, a months worth of time spent. I could make more than that and just not even worry about it. So I think 200 is pretty justifiable"
+Female,Caucasian,25,6,2,3,150.0,"I would require $150 to wait a month to receive my reward. By the time a month comes, I would have probably forgot about winning, making it all the more exciting. Plus, it's more than what I could have walked away with."
+Male,Caucasian,37,6,2,3,200.0,"As much/little as double would enough for me to safe, or 100 dollars more, more total of 200.  I'm not in dire need of 100 as to wait for one month."
+Male,Caucasian,52,6,2,3,200.0,I may not be around in a month. I want to  do something now with the money. I don't like to wait.
+Female,Caucasian,33,6,2,3,1000.0,"I am a mother and a student, I would need it to be substancial before concidering to wait. "
+Female,Caucasian,26,6,2,3,200.0,"The delayed payment would need to compensate me for the time of having to wait to receive the $100.  If I could double my reward by waiting a month, it would be worth it because I could do twice as much with the money by waiting just a short period of time."
+Male,Caucasian,26,6,2,3,200.0,"It would take doubling the $100 to make it worth it for me because $100 is not much money, but doubling it makes it seem worth the wait."
+Male,Caucasian,16,6,2,3,200.0,I would make them pay me a hundred dollars more to wait a month. 
+Male,Caucasian,25,6,2,3,260.0,Money is very tight for me personally right now.  I chose $260 because that is the total amount of my student loan payments right now.
+Female,Caucasian,46,6,2,3,105.0,"100 isnt alot so more would be better. / 100 wouldnt do much for me right now. / I need money later, not right now."
+Male,African American,28,6,2,3,150.0,sometimes it depends if your working or not. I m mot working right now so i need at least %50 more. 50% more is $150 total.
+Male,Caucasian,19,6,2,3,200.0,It would have to be a good amount more but not a huge amount as I only have to wait one month. If I had to wait longer however the amount would have to be significantly higher. 
+Male,Asian American,29,6,2,3,105.0,"With interest rates at a current low point, the return rate for waiting will be potentially higher by waiting one month"
+Female,Caucasian,28,6,2,3,200.0,"it would have to be atleast twice the amount to justify waiting on money that my family could really use for important things, ike bills, food or clothing"
+Female,Caucasian,23,6,2,3,120.0,"I would want to get at least 20 dollars more. I don't need the money now so it's not vital that I get it TODAY. However, the money I get later would have to be a significantly higher amount (20)."
+Male,African American,24,6,2,3,200.0,I would require triple the initial amount to wait a month.  I'd rather have $100 on the spot if I wasn't expecting it as oppose to wait a month for money that I may not receive.
+Female,Asian American,25,6,2,3,500.0,"I'm gonna wait until 1 month so i can receive more than a 100 because waiting that long is worth waiting for.Patience is a virtue as what everybody said,if you can wait long then you can receive much reward nor money.I am so eager to wait because I really needed that amount of money."
+Male,Caucasian,21,6,2,3,120.0,I think the incentive of another 20 dollars would keep me from wanting the hundred dollars instantly
+Male,Caucasian,26,6,2,3,110.0,I would not mind waiting 1 month to receive an additional 10%.  That is a total of 110 dollars.
+Female,Caucasian,42,6,2,3,200.0,"In order to make me wait one month, I would require the amount to double.  It would have to be a $200 payment.  For me, it's not so much the amount, but the percentage of the increase that matters."
+Female,Caucasian,51,6,2,3,200.0,I don't need the cash immediately. I would consider waiting another 30 days to double the amount. I would not accept less than double the amount as compensation for the extra wait time.
+Male,African American,30,6,2,3,150.0,I would wait for an extra 50.  It would be hard to wait because I could really use that money right now.
+Male,Caucasian,33,6,2,3,101.0,Needs to be more than I could expect to make having invested the $100.  Say around 1% at the minimum.
+Female,Caucasian,22,6,2,3,150.0,One months I a long period of time to wait for only 100$ which is easily spent due to price inflations. 100$ for example is not enough to pay any of my monthly utility bills or even fill up the tank in my truck.
+Female,Caucasian,53,6,2,3,500.0,I would consider $500.00 worth waiting a month for as opposed to getting $100.00 now. Waiting 30 days is a long time when it comes to reaping the rewards of winning a raffle. Anything less than $500.00 is not worth waiting for. I would rather take the $100.00 now if I couldn't have the $500.00 in a month. 
+Female,Caucasian,42,6,2,3,150.0,"In my current situation, I seem to always be in need of cash for various expenses.  In this paycheck-to-paycheck existence, I would want the $100 now.  I would be willing to wait a month only if the amount were greater than $150."
+Male,Pacific Islander,23,6,2,3,150.0,I would want at least $150 for interest that accrued within the past month. I the highest I would requestion in $175
+Female,Caucasian,25,7,1,4,400.0,
+Male,Caucasian,53,7,1,4,250.0,
+Female,Caucasian,36,7,1,4,240.0,
+Male,African American,29,7,1,4,300.0,
+Female,Caucasian,52,7,1,4,300.0,
+Female,Caucasian,48,7,1,4,300.0,
+Female,Caucasian,53,7,1,4,500.0,
+Male,Caucasian,30,7,1,4,205.0,
+Male,Caucasian,24,7,1,4,500.0,
+Female,Caucasian,24,7,1,4,250.0,
+Female,Caucasian,33,7,1,4,250.0,
+Female,Hispanic,23,7,1,4,300.0,
+Male,Caucasian,27,7,1,4,250.0,
+Male,African American,35,7,1,4,500.0,
+Female,Caucasian,42,7,1,4,250.0,
+Female,Caucasian,42,7,1,4,250.0,
+Female,Caucasian,20,7,1,4,220.0,
+Female,Caucasian,22,7,1,4,500.0,
+Female,African American,32,7,1,4,230.0,
+Female,Caucasian,33,7,1,4,500.0,
+Male,Asian American,43,7,1,4,250.0,
+Male,Caucasian,30,7,1,4,220.0,
+Female,Caucasian,23,7,1,4,210.0,
+Male,Caucasian,25,7,1,4,300.0,
+Male,Caucasian,48,7,1,4,300.0,
+Male,Caucasian,47,7,1,4,220.0,
+Female,Other,23,7,1,4,500.0,
+Male,Asian American,25,7,1,4,203.0,
+Female,Other,28,7,1,4,400.0,
+Female,African American,21,7,1,4,220.0,
+Male,Caucasian,20,7,1,4,250.0,
+Male,Caucasian,19,7,1,4,400.0,
+Female,Caucasian,38,7,1,4,250.0,
+Female,Caucasian,20,7,1,4,220.0,
+Female,African American,21,7,1,4,300.0,
+Male,Caucasian,33,7,1,4,1000.0,
+Female,Caucasian,40,7,1,4,350.0,
+Female,Caucasian,58,7,1,4,250.0,
+Female,Caucasian,44,7,1,4,250.0,
+Male,Caucasian,22,7,1,4,210.0,
+Male,Caucasian,35,7,1,4,1000.0,
+Male,Caucasian,22,7,1,4,205.0,
+Female,Caucasian,56,7,1,4,225.0,
+Male,Caucasian,36,7,1,4,220.0,
+Male,Caucasian,20,7,1,4,250.0,
+Male,Caucasian,44,7,1,4,400.0,
+Female,Caucasian,25,7,1,4,400.0,
+Female,Caucasian,23,7,1,4,250.0,
+Female,Caucasian,36,7,1,4,220.0,
+Male,Caucasian,25,7,1,4,500.0,
+Male,Caucasian,25,7,1,4,275.0,
+Male,Caucasian,27,7,1,4,215.0,
+Male,Caucasian,18,7,1,4,250.0,
+Female,Asian American,23,7,1,4,300.0,
+Female,Caucasian,29,7,1,4,1000.0,
+Male,Caucasian,25,7,1,4,500.0,
+Male,Caucasian,27,7,1,4,600.0,
+Male,Caucasian,21,7,1,4,300.0,
+Male,Hispanic,20,7,1,4,500.0,
+Female,Caucasian,25,7,1,4,400.0,
+Male,Caucasian,20,7,1,4,400.0,
+Male,Caucasian,23,7,1,4,230.0,
+Male,Caucasian,26,7,1,4,300.0,
+Female,Caucasian,24,7,1,4,500.0,
+Male,Caucasian,22,7,1,4,275.0,
+Male,Caucasian,18,7,1,4,250.0,
+Female,Caucasian,35,7,1,4,201.0,
+Male,Caucasian,23,7,1,4,250.0,
+Male,Caucasian,27,7,1,4,300.0,
+Female,Asian American,19,7,1,4,450.0,
+Male,Caucasian,18,7,1,4,300.0,
+Female,Asian American,20,7,1,4,400.0,
+Male,Asian American,26,7,1,4,220.0,
+Male,Caucasian,20,7,1,4,500.0,
+Male,Caucasian,24,7,1,4,240.0,
+Male,Hispanic,23,7,1,4,250.0,
+Male,Caucasian,32,7,1,4,250.0,
+Male,Caucasian,28,7,1,4,250.0,
+Male,Caucasian,23,7,1,4,300.0,
+Male,Caucasian,31,7,1,4,250.0,
+Male,Caucasian,21,7,1,4,201.0,
+Male,Caucasian,32,7,1,4,250.0,
+Male,Caucasian,36,7,1,4,300.0,
+Male,Caucasian,33,7,1,4,220.0,
+Male,Caucasian,29,7,1,4,375.0,
+Female,Caucasian,18,7,1,4,350.0,
+Male,Caucasian,21,7,1,4,500.0,
+Male,Asian American,26,7,1,4,220.0,
+Female,Caucasian,22,7,1,4,300.0,
+Male,Caucasian,18,7,1,4,600.0,
+Male,Caucasian,21,7,1,4,500.0,
+Male,Caucasian,22,7,1,4,300.0,
+Male,Caucasian,24,7,1,4,400.0,
+Male,Caucasian,25,7,1,4,300.0,
+Male,Caucasian,31,7,1,4,203.0,
+Male,Caucasian,23,7,1,4,400.0,
+Male,Hispanic,33,7,1,4,201.0,
+Male,Caucasian,23,7,1,4,250.0,
+Male,Caucasian,28,7,1,4,400.0,
+Male,Caucasian,23,7,1,4,400.0,
+Male,Caucasian,32,7,1,4,350.0,
+Male,Caucasian,19,7,1,4,300.0,
+Male,Hispanic,18,7,1,4,250.0,
+Male,Caucasian,30,7,1,4,250.0,
+Female,Asian American,39,7,1,4,500.0,
+Male,Asian American,20,7,1,4,250.0,
+Female,Caucasian,21,7,1,4,300.0,
+Female,Caucasian,20,7,1,4,500.0,
+Female,Caucasian,36,7,1,4,400.0,
+Male,Asian American,18,7,1,4,225.0,
+Male,Caucasian,22,7,1,4,250.0,
+Female,Caucasian,28,7,1,4,400.0,
+Male,Caucasian,59,7,1,4,202.0,
+Male,Caucasian,22,7,1,4,400.0,
+Male,Caucasian,22,7,1,4,300.0,
+Male,Caucasian,51,7,1,4,400.0,
+Male,Caucasian,21,7,1,4,250.0,
+Male,African American,18,7,1,4,220.0,
+Male,Asian American,20,7,1,4,210.0,
+Male,Caucasian,19,7,1,4,300.0,
+Female,Asian American,19,7,1,4,400.0,
+Male,Asian American,22,7,1,4,250.0,
+Male,Caucasian,33,7,1,4,1000.0,
+Male,Caucasian,26,7,1,4,275.0,
+Male,Caucasian,29,7,1,4,235.0,
+Male,Caucasian,25,7,1,4,500.0,
+Male,Caucasian,26,7,1,4,300.0,
+Male,Caucasian,41,7,1,4,300.0,
+Female,Caucasian,26,7,1,4,300.0,
+Male,Caucasian,23,7,1,4,250.0,
+Male,Asian American,21,7,1,4,300.0,
+Female,Asian American,19,7,1,4,300.0,
+Female,Hispanic,47,7,1,4,400.0,
+Male,Caucasian,27,7,1,4,250.0,
+Female,Caucasian,28,7,1,4,220.0,
+Female,Asian American,25,7,1,4,500.0,
+Female,Caucasian,25,8,2,4,225.0,"I don't need the money right now, so if I can wait a short time and get more money I would rather wait."
+Male,Caucasian,39,8,2,4,220.0,"I would contemplate how much I may want the money now for an immediate need versus using it for something that would be postponed. Mostly likely it would be used for immediate consumption rather than savings. If I put the money in the bank for a month, the interest that would be made would be so small that it wouldn't make a big difference. However, my initial feeling would be that I'd want a higher rate of return than the equivalent interest rate would be."
+Female,Caucasian,52,8,2,4,210.0,It would have to be at least $10.00 more.  This would be a total of $210.  That would make waiting an extra month worth it.  Any amount less would not be worth the extra wait.
+Female,Caucasian,49,8,2,4,250.0,"If I could get $50 extra, I would be willing to wait an additional month to receive the $200.  I decided that $250 a month from now would be more useful than $200 now.  I would be willing to wait 30 days for an additional $50, as 30 days isn't that far away, and earning the extra $50 would be worth the wait."
+Female,Caucasian,28,8,2,4,300.0,"I would demand at least hundos extra, for I like that money. Money money, yeah yeah."
+Female,Caucasian,29,8,2,4,300.0,"I would wait a month if I could receive $200.00 on top of the $200.00 I won.  A month isn't really that long to wait.  To me, it would be wiser to wait a month for the money if it meant doubling it."
+Male,Caucasian,30,8,2,4,220.0,"One month is not a lot of time to wait for additional money.  Plus, $200 is a lot, but if I could wait and get more, I woild."
+Female,Caucasian,23,8,2,4,215.0,I will wait one month to receive money.  I will wait to earn more money. I think it is worth waiting for.
+Male,Caucasian,38,8,2,4,205.0," One month is short enough that I don't anticipate any great loss in interest or real spending power over that time.  I have no immediate need of the money, so essentially it would be getting paid more to do nothing for a month."
+Male,Hispanic,19,8,2,4,250.0,A 50 dollar increase would most likely be the minimum to compensate for my desire for instant gratification.
+Female,Caucasian,26,8,2,4,300.0,I could have invested the money and made a return within one month.  I also could have played a lottery game and won from using that $200.  I want it to be worth the wait and I believe $300 would be the minimum I would be willing to wait an extra month for.
+Male,Caucasian,28,8,2,4,300.0,200 now. i like instant gratificatioon. i'm all about what i can get now in the moment.
+Female,Caucasian,60,8,2,4,220.0,I would want at least 5% of the amount.  This is what I could make in the market if I bought stock.  It would also be more than I could make through my credit union. 
+Female,Caucasian,19,8,2,4,400.0,I would choose to receive the $200 now.  I may consider waiting 1 month if the reward was at least $400.  I would for sure wait if it was more than $500.
+Male,Caucasian,20,8,2,4,225.0,A reward 1 month in the future would have to be at my advantage for me to consider it.  At 1 month an increase in the reward of about 25% would have me waiting a month to recieve it.  Smaller rewards would have to have a higher percentage increase while larger ones would only have to have slightly lower percentages.
+Female,African American,39,8,2,4,250.0,I would need to receive more than I could receive from saving the money in an account along with payment for my time.
+Male,Caucasian,37,8,2,4,210.0,Would want to make me feel it is worth my time to wait. Would also want to make sure it's more then I could get in interest if I got the money now and were to invest it. 
+Female,Hispanic,25,8,2,4,300.0,I would not wait 1 month to receive more money. I will choose to take now the $200.00. I chose this option because is the secure option.
+Female,Caucasian,22,8,2,4,300.0,"I would wait the one month for the payment, I didn't work to earn the money, just won it in a raffle. It is not an expected earning so therefore I would probably apply it to a savings account or something of that nature. Waiting a month to receive a larger amount would not cause an immediate harm to my financial situation"
+Female,Caucasian,37,8,2,4,250.0,I would always be willing to wait a few weeks to recieve more money as long as all of my bills are paid. the more the better.
+Female,Caucasian,35,8,2,4,400.0,"It was free money so I feel that even if I were to only get $200 it is a great benefit. If the amount were to double, I wouldn't mind waiting an extra month because its all really bonus money to me. "
+Female,Caucasian,28,8,2,4,250.0,That amount of money is not large enough to warrant waiting for a slightly larger amount. There has to be enough of a trade-off if I am going to delay my pleasure.
+Female,Caucasian,58,8,2,4,240.0,I would wait one month for an additional $40.00. I think that is a fair amount to wait a month. I'll say $240.00
+Male,Caucasian,51,8,2,4,400.0,400 dollars would be more attractive and would make me want to wait the required time. I think it would have to be a major incentive to make me wait for the prize. 
+Male,Caucasian,49,8,2,4,1000.0,"I would require at least 1000 dollars, because I would like to receive the money as soon as possible."
+Male,Caucasian,54,8,2,4,210.0,I'm poor. But not bankrupt. I can wait a month.
+Female,Caucasian,26,8,2,4,300.0,"I think about how much I need the money now, and then decide that it would take $100 to buy me out of receiving the $200 immediately. "
+Male,Caucasian,32,8,2,4,215.0,Fifteen dollars would be acceptable to me. That just seems like an excellent interest rate that would be make it worth the wait.
+Female,African American,32,8,2,4,250.0,I would need to get at least $250 for waiting one month . I would want this bump in pay to accommodate me for the inconvenience of waiting
+Female,Caucasian,28,8,2,4,400.0,It would have to be a significant amount. I would take double or triple in the next month. I would want  to be able to have access to money immediately.
+Male,Caucasian,27,8,2,4,220.0,I would wait if it was $20 or more in 1 month anything less would not interest me that much.
+Male,Caucasian,26,8,2,4,300.0,300.  I would need to have enough to pay the taxes on it so i would get to take home around $200
+Male,Caucasian,20,8,2,4,300.0,"To make the offer attractive to me, I would have to gain atleast 150% of the offer. 200% is more favorable to me. However, in times of financial hardship, I would just opt for the $200 now."
+Male,Caucasian,37,8,2,4,220.0,"I'd take an extra $20 to take it in a month.  While I know that 10% monthly interest is outrageous for one month, I think that raffles should have to be paid off immediately.  Further, I think I have assumed risk that they may not be able to pay me out in a month."
+Male,Caucasian,23,8,2,4,250.0,It wouldn't take a whole lot more money to have me be more susceptible to waiting a month for payment because of the current state of my financial savings.  As long as I am not in desperate need of money i would wait.
+Female,Caucasian,29,8,2,4,250.0,I would need to look at the amount of interest I would earn by placing the money in a savings account. I would also want to look at the interest rate that I would pay on a credit line if I was using the money to pay the account in full.
+Male,Caucasian,20,8,2,4,300.0,"I think 300 would be the least amount acceptable to wait. Otherwise, i'm not really waiting for much. If it was three fifty, its not worth waiting a whole month just for an extra fifty dollars."
+Male,Caucasian,26,8,2,4,250.0,$50 would be enough to make me wait. I don't have a need for the money now that is so urgent it can't wait an extra month.
+Female,Caucasian,21,8,2,4,400.0,t would be worth waiting a month to double my reward.  A month is not a very long amount of time to wait assuming that I have that finances in place to support myself during that time.
+Male,Caucasian,34,8,2,4,220.0,Well I do not need the money that badly so I would wait on it. I have a small credit card balance with 21 mos no interest and I would gladly wait on more money to put on that balance.
+Female,Caucasian,30,8,2,4,400.0,I would be willing to wait another month if the money doubled during that time.
+Male,Caucasian,21,8,2,4,220.0,"It would take at least 20 dollars more to make it worth my while. I don't need money right now, so I would be saving it anyways, but any less than 20 is not much of a difference so I'd rather not have to wait."
+Female,African American,34,8,2,4,250.0,It is only a one month wait and it is a 25 % raise
+Male,Caucasian,41,8,2,4,250.0,I would not want to wait longer because I would want the opportunity to use the the money as soon as possible rather than delay the use of the money.
+Female,Caucasian,22,8,2,4,250.0,"To me, 200 is already a substantial amount, so it would take a substantial increase from that amount to make me wait."
+Male,Asian American,30,8,2,4,300.0,For me to go with 1 month reward it has to be at least 50% more than given to me now because i can wait a little longer to get more in the end.
+Female,Caucasian,22,8,2,4,300.0,I would require $300 to wait for one month. it's a lot of money for me and I can be patient. 
+Male,Caucasian,29,8,2,4,250.0,Probably $250. Anything less than a $50 bonus would not be worth waiting another month.
+Male,Caucasian,26,8,2,4,250.0,I would say 50 dollars more would be enough to make me wait a month. It would be worth it to me to wait longer for the extra money.
+Male,African American,23,8,2,4,350.0,It would have to be at least double I believe. In one month I could have other small jobs/raffle etc. that would equal $200-300.
+Male,Asian American,24,8,2,4,400.0,It really depends on how much I need the money at the moment.  If I really need $200 right now then I wouldn't mind receiving $200 now.
+Female,Caucasian,23,8,2,4,203.0,I would need to receive at least $203 to make waiting 1 month just as attractive. The extra $3 would be a better return than if I were to put it in my savings account. Anything more than $3 would be great!
+Male,Caucasian,25,8,2,4,250.0,"I would probably require a small amount higher in one month to make it worth it. I am not desperate for the money, so I can afford to wait, but there must be some incentive to do so."
+Female,Caucasian,21,8,2,4,500.0,"500 dollars would make waiting one month more attractive. This is because I could definitely use 200 now to pay my bills. However, if I was forced to wait to pay my bills, 500 would cover late fees and also give me a large chunk of money to keep."
+Male,Asian American,22,8,2,4,300.0,"I don;t really need the money now, so I would be willing to wait a month for about $300."
+Female,Caucasian,39,8,2,4,250.0,"It would take at least $50 for me to wait.  I would rather have the pleasure of spending it now.  If I got an extra $50, though, I could wait a month. "
+Male,Caucasian,26,8,2,4,500.0,I would want for it to be at least double the amount to wait an extra month. I'm in a position in my life right now where I really need money quickly.
+Female,Caucasian,25,8,2,4,300.0,I would wait 1 month for 100$ more than if I didn't wait. I think it is more convenient to the payer if they have time to pay the raffle money.
+Male,Caucasian,27,8,2,4,300.0,"I'm in a position that any money is good money. I'd be willing to wait, but not if it's something like $225 versus $200. I'd rather take the money now, so if the price is right I'll hold off but there's a limit. "
+Male,Caucasian,19,8,2,4,600.0,"I would need to have the money tripled to make waiting a month worth it, as I would love to have the money right now."
+Male,Caucasian,30,8,2,4,250.0,A month isn't all that long to wait. It wouldn't have to pay all that much more to be worthwhile. 
+Male,Caucasian,29,8,2,4,400.0,"I make about $200 from one month of Mturking. In order to get me to wait one month, the amount would have to be doubled. Then it would seem worthwhile. "
+Male,Caucasian,18,8,2,4,400.0,"I would require at least the same amount, so two hundred more dollars.  This decision was made by my reasoning that I could turn two hundred dollars into at least the same amount of opportunity in a month."
+Male,Caucasian,21,8,2,4,220.0,Mostly anything above the current interest rates so I am not taking a loss. 10% or more I think would do it. 
+Male,Caucasian,18,8,2,4,240.0,It would depends on how much i needed the money. If it wasn't a large necessity then i would only say like 250 in total. More money is more money.
+Male,Caucasian,26,8,2,4,250.0,any money above the same $200 in a month is more desirable as long as it is above certain threshold.
+Male,Caucasian,20,8,2,4,400.0,"$400, If I have to wait longer to receive my money from the raffle i may as well be compensated well."
+Male,Caucasian,24,8,2,4,250.0,To receive an extra 50 bucks would be worth waiting another month. 50 dollars is worth my patience. 
+Female,Asian American,22,8,2,4,250.0,I feel that any amount of money would be worth waiting for. I do not feel rushed to receive the money as I don't spend money all too fast and budget my money wisely.
+Male,Caucasian,28,8,2,4,225.0,"I figure that 12.5% interest is a good gain for one month, once you consider the relative utility of money now vs money later."
+Male,Caucasian,20,8,2,4,220.0,"I try to keep my finances ahead of paycheck to paycheck (For example, this week's paycheck wont be needed until three weeks from now, etc.), so I wouldn't need the money immediately. Also, as a windfall, I can afford to wait. Also, there is no way I could invest well enough to make an extra $20 off $200 within a month, so I wouldn't need much incentive to wait longer. Also, I like having my money on hand in multiples of $20."
+Male,Caucasian,21,8,2,4,275.0,It would have to be at least 50-100$ more. One could take the 200 dollars and invest it into CD's/stocks and make profit from it. People love to have their money on hand.
+Male,Caucasian,22,8,2,4,400.0,four hundred dollars. Probably because I feel with online gambling I can turn 200 bucks into a thousand in less than a month. Also I need money now and it would have to be quite a bit more for me to wait.
+Male,Caucasian,23,8,2,4,220.0,"20 dollars seems like the smallest amount of money I would part with without caring much about it, and since I have no opportunity to invest 200 dollars the calculation is based solely on how much I am willing to sacrifice. "
+Female,Caucasian,23,8,2,4,225.0,"I think any amount greater than 25 USD I would accept 1 month later. I don't have a huge need for money immediately right now, so I wouldn't mind waiting a bit in order to get more"
+Female,Caucasian,40,8,2,4,250.0,"I like the idea of receiving payment for it later, due to the fact it would provide me income for another month. If I had it all at one time, it would all be spent at one time. Receiving it in at a different time, keeps me from just wasting the money. In my opinion it makes more sense to receive the payment in two tracations rather than a lump sum."
+Female,Caucasian,22,8,2,4,250.0,"I would be fine wth smalle amounts of money as long as there was a guarantee I would receive the reward later. Since it was a raffle prize, it is not money I expected and budgeted for. It is extra money and if waiting longer gives me extra money then it's even better."
+Female,Caucasian,22,8,2,4,210.0,"I think just a $10 increase would make waiting the month just as attractive. Since this money came from a raffle, I assume it's supplementary to my regular income. Basically a nice addition but by no means necessary. I would be willing to wait a month because I assume that I would not need the money immediately."
+Male,Caucasian,26,8,2,4,240.0,"I wouold wait for the bigger payout.  I am currently making more than enough money to survive, and the extra 200 wouldn't be anything close to an actual windfall, more like playing around money."
+Female,Caucasian,51,8,2,4,210.0,$200 would be a nice windfall but I would be willing to wait a month to receive it if I could get at least $10.  I know this is a high annualized interest rate but anything less would be too trivial to justify the delay.  Plus there's a risk that the raffler will renege.
+Female,Caucasian,25,8,2,4,500.0,"I would like to take it now, there's no point in me waiting an extra month to the same amount of money I am entitled to."
+Female,African American,23,8,2,4,220.0,"I wouldn't require that much more money to make waiting attractive. There are very few ways to get a guaranteed return on any investment, so it's seems like even a smallish amount would be worth it. "
+Male,African American,20,8,2,4,200.01,I can afford to wait a month.
+Male,Caucasian,25,8,2,4,225.0,Anything greater than 10 perecnt I would probably wait a month. As long as I was sure to get it I would wait. 
+Male,Caucasian,25,8,2,4,250.0,I would want an additional 25% makign the total 250. I feel getting a little over a dollar a day is a fair amount for the time that I am made to wait for the money. Considering the Native Amwerican loan sharks charge far more for interest I see this as a fair deal.
+Male,Caucasian,26,8,2,4,400.0,It would take at least another $200 to make me wait the month for the reward.
+Male,Caucasian,25,8,2,4,250.0,"Honestly I would wait a month for another $50. This is probably because for me money is tight right now but I'm paying all my bills and I have plenty to eat. So any extra money is really nice for things that I don't buy for myself but would like to have. Such as a Kindle Fire, or components for a new desktop computer for gaming."
+Male,Caucasian,51,8,2,4,400.0,I would think double the amount would make it attractive.
+Male,Caucasian,27,8,2,4,225.0,I would wait a month for $225. That works out to almost a dollar a day which is a better return than I could get investing it in a savings account for 1 month. I don't really need $200 immediately so I can afford to wait.
+Female,Caucasian,25,8,2,4,215.0,"I'd want at least an extra $15 to wait another month.  These days, money doesn't go very far.  $15 would be enough to go to a movie or buy a book or go to a mediocre place for dinner (alone)."
+Male,Caucasian,38,8,2,4,250.0,"The delay of one month would be worth about $50 to me. I could use the $200 right now to do something with, but I'd be willing to put that off for a larger reward."
+Male,Caucasian,31,8,2,4,400.0,I would require double the amount I could receive now for it to be worth it to wait.
+Male,Caucasian,20,8,2,4,250.0,"Receive more in 1 month.  $250.  I can wait and make money from other sources easily.  I am being paid just to wait, which is no effort.  "
+Male,Caucasian,28,8,2,4,400.0,For double the money I'd wait. Doubling is always a good thing in the minds of most people.
+Male,Caucasian,28,8,2,4,205.0,"I am a pretty patient person, and I don't mind waiting too much so I would just settle for $205 after one month. That would be 2.5% more for one month which is a pretty good return on my money. Much better that you can find anywhere else (safe and guaranteed)."
+Male,Hispanic,24,8,2,4,500.0,I want want to get the money now. I need the money to pay for gas. Payment for rent is coming up soon.
+Male,Caucasian,38,8,2,4,220.0,"Assuming the raffle firm seems respectable enough, 10% seems like a reasonable number to make in a month"
+Male,Caucasian,20,8,2,4,500.0,I would need a pretty large amount of money on top of the original prize in order to be willing to wait a month. I couldl do a lot with $200 right now.
+Male,Caucasian,28,8,2,4,205.0,"I'd rather have more money later than less money now. More money is more money, after all. I don't mind waiting."
+Female,Asian American,20,8,2,4,250.0,$50 seems like the right amount of compensation to wait for a month.
+Male,Caucasian,21,8,2,4,500.0,"I would be willing to wait 1 month to get 500 dollars more.  This is because I am broke right now and need money, I would only wait if I got an extreme benefit."
+Male,Caucasian,18,8,2,4,215.0,"It likely wouldn't take much, I would probably take $215 after waiting one month over the $200 now.  I have no pressing need for $200, and waiting it out even for a relatively small gain is worth it.  Making money by literally doing nothing other than waiting is usually a pretty good choice."
+Male,Hispanic,22,8,2,4,300.0,"$300 would be ideal. It's not too little to warrant me waiting. Also, I'm not strapped for cash at the moment."
+Male,Caucasian,25,8,2,4,214.0,The amount received after one month would have to be no less than an increase of 7% over the previous amount. This increase is comparable to what I would receive over the course of a month investing that $200 on a good return. I am financially stable so I have no immediate need for this $200. 7% just seems to be a magic number for me.
+Female,Asian American,26,8,2,4,350.0,It would be around $350. It seems that an amount double the original amount would be worth the wait of an extra month.
+Female,Caucasian,47,8,2,4,1000.0,I would only want to wait a month If the amount was at least $1000.00 because you could have the $200.00 and go about your business as usual. You can spend it and do whatever you need to do. If you have to wait a month to get a larger amount I think it needs to be well worth the wait. You may really need the money and waiting may really put you in a difficult position. Taking the already offered money may just what you need to get through a difficult time. 
+Male,Caucasian,30,8,2,4,225.0,$225. It provides a large return on investment and gives me enough incentive to wait. I can buy a bit more with it and not have to worry about inflation.
+Male,Caucasian,33,8,2,4,210.0,"I don't have a great need for money now, so waiting is fine for me."
+Male,Caucasian,30,8,2,4,350.0,"I would want to at least get 1.5 times what I got instantly to make it worth my while.  I can wait, but I don't want to wait too long, and the money is free.  "
+Male,Caucasian,32,8,2,4,250.0,It would be at the $50 mark where I would consider and likely wait one month for more money.  I believe it generally comes down to the size of the new amount in comparison to the current amount.  $50 would be a 25% increase.  Anything less than that and it looks like it's too small to worry about.
+Male,Caucasian,31,8,2,4,400.0,"It would have to be double, because I could definitely use the money now. I couldn't wait that long for it."
+Female,Caucasian,19,8,2,4,300.0,"At least $300 dollar would I require to wait the month. A month isn't a long time and winning a raffle shouldn't have been added into my account for the month anyway, whereas I could plan what I would do if I had more time before the money."
+Male,Caucasian,20,8,2,4,220.0,"You can get interest rates of 2.5% per year, so that is negligible in a months time. I would wait an extra month for $20 extra, even though I have no immediate need for the money. An increase of $20 would make waiting an extra month worth it, as I am relatively impatient and forgetful."
+Male,Caucasian,21,8,2,4,400.0,"Probably double, or $400, would make it worthwhile to wait a month. Why? I have no particular reason for doubling it, but that seems fair to me. "
+Male,Caucasian,45,8,2,4,255.0,current amount can be used for business faster combined with potential uncertainty.
+Male,Asian American,19,8,2,4,201.0,"Recieve the larger payment, because you're still making more money then if you were to take the money now."
+Male,African American,33,8,2,4,250.0,"I could really use that money now, however I am willing to wait for more money.  It would have to be a significant amount more.  It wouldn't even consider anything lower than 25%."
+Male,Caucasian,24,8,2,4,350.0,"It would depend on how much I need the money right now. The prize is not a huge sum of money, so it would be easier to take the money now, however if there was a significant difference between the prize now and the prize in a month, it may be worth it."
+Male,Caucasian,21,8,2,4,210.0,"Anything more than $10 would be enough to make me want to wait.  I have no urgent need for $200, so it makes sense to wait.  But if the additional money is less than $10, it is worth this small amount to experience the excitement now."
+Male,African American,25,8,2,4,400.0,I need to receive at least double by waiting 1 month.  Else it is better to take the 200$ and invest it or spend it now.  The money is worth more to me now rather than later.
+Female,Caucasian,27,8,2,4,400.0,"I would at least have to receive $400 dollars to make it worth waiting a month, and some time of written gurantee I was getting paid in said month."
+Female,Caucasian,38,8,2,4,250.0,"I would rather wait a little longer and get more money. It's like the idea of a credit card, I'd rather save cash than pay more later"
+Male,Caucasian,21,8,2,4,300.0,It would have to be at least more than the inflation during that 1 month period or else it would not really be worth any more. I would prefer more as well so probably around $300.
+Female,Caucasian,31,8,2,4,300.0,"I don't need the money right away, but I might forget about the winnings in a month.  $300 is a good amount that I won't forget."
+Male,Caucasian,27,8,2,4,205.0,"I'm not in dire financial circumstances, so I don't mind waiting a bit for more money. I'm also really stingy."
+Male,Caucasian,21,8,2,4,201.0,"201 dollars would be enough for me, i like to save my money anyways."
+Male,Caucasian,18,8,2,4,201.0,Any amount larger than $200 would be attractive. I have no need for the money now and any amount larger would be more attractive. 
+Male,African American,51,8,2,4,250.0,To make it worthwile for me to wait a month i would need at least 50 dollars more. This is 25% of the 200.  This is because 200 is not a lot of money so it would really have to be worth my while to wait.
+Male,Asian American,21,8,2,4,500.0,It would be more than double and 200 dollars would not be much of a dent in any bills or enough to buy anything substantial.
+Female,Caucasian,23,8,2,4,201.0,Anything more would be worth waiting for because I do not have a great need for the $200 now so I'd be willing to wait.
+Male,Caucasian,23,8,2,4,400.0,"Most likely I would want double the amount, or close to that. The wait brings uncertainties into your mind whether or not the money would even be coming."
+Male,Caucasian,22,8,2,4,250.0,"The opportunity cost of giving up the $200 would mean that I would need at least a small increase to account for inflation and things I could've bought. $200 is a decent sum of money, but I could live without it to get 250 after 30 days. $250 would be a bare minimum since that's about $1/day, which isn't a whole lot."
+Male,Caucasian,27,8,2,4,400.0,"I would want the wait of a month to be worth it. i would want the money right away, but would wait for double."
+Male,Caucasian,22,8,2,4,400.0,"First off, this is a difficult question because I could definitely use $200 right now. However, I would be willing to wait 1 month if I was able to get double that money or more, because that additional money would help me greatly in the long run."
+Female,Caucasian,36,8,2,4,400.0,I would choose to have the $200 now. If the amount was a lot higher then I would maybe think about waiting. It would have to be more than $400 for me to wait the month.
+Male,Caucasian,23,8,2,4,250.0,"Only a little more would suffice.  I don't have any immediate debt to take care of, so I could wait a month for the money."
+Female,Caucasian,19,8,2,4,300.0,I would have to at least get $100 more in a month. Anything less seems too little to have to wait a month to receive. $300 seems like a fair amount to receive in one month after winning.
+Male,Hispanic,19,8,2,4,250.0,"It would take reward of 250 to make me wait one month,  this could be seen by me as placing the cash in a high interest CD account and getting years of interest for just waiting a month."
+Male,Asian American,21,8,2,4,250.0,"I'd probably wait 1 more month to get $250 or more. Since the prize is money I didn't have in the first place, I'd say a 25% increase would be great. "
+Female,Caucasian,31,8,2,4,800.0,It would have to be a fairly siginificant chunk of change honestly.  I don't like things hanging up in the air like that.  Particularly when money is involved.
+Male,African American,23,8,2,4,350.0,I would wait it out for the extra sum simply because it was a raffle which allowed me to win.
+Male,Caucasian,42,8,2,4,250.0,"That isn't too big a sum of money, so I'd probably blow it on something fun or frivolous.  Since it was ""found money"" I'd need a pretty decent amount of interest to put it off for a month.  50 bucks sounds right.  I could have a lot of fun or get something nice for 200 dollars right now.  Anything less than 50 bucks wouldn't make much difference in a month."
+Male,Caucasian,21,8,2,4,500.0,"I would say that the amount would have to be over double in order for me to take the money later rather than now. Now , 200 bucks is cool.. Later... specially 1 month later, anything less than 400 would be a bogus wait for just 50 more dollars per week you waited."
+Female,Caucasian,39,8,2,4,225.0,I would wait for a month to get $225.  I don't really need the money immediately so why not wait?
+Female,Caucasian,36,8,2,4,300.0,"At least 100 more would make it worth the wait. If it were just ten, twenty bucks it wouldnt be worth the wait."
+Male,Hispanic,20,8,2,4,201.0,"I would want it to be more than current investment rates. I'm currently about to get between 5 and 7 percent, so estimate by dividing by 12 and..."
+Male,Caucasian,24,8,2,4,210.0,"I would probably end up putting any money won towards my student loans. I make enough money to make a decent payment per month, but I generally put any 'extra' money I come into directly towards my loans to pay them as quickly as possible. Therefore, as long as the money is increasing faster than the interest on my loans, I can wait indefinitely as the more it makes, the more I can apply to my loans."
+Male,Asian American,32,8,2,4,250.0,It would have to be at least 50 dollars more.  This is so because anything less I would consider not significiant enough to wait for.
+Male,Caucasian,27,8,2,4,300.0,If I won a raffle I would need atleast $100 more in a month for me to wait. Money is tight for me right now and that $200 would be very tempting. The idea of easy-come easy-go would also play a part in taking the $200 now.
+Male,Caucasian,31,8,2,4,225.0,"For me, I would want at least an additional 25 dollars to wait an additional month to receive my reward.  By deferring the compensation owed to me I would expect some return on my investment.  Without what I feel is appropriate incentive to defer I would rather accept the money now and choose to invest it on my own."
+Male,Caucasian,26,8,2,4,204.0,"Since I don't need it now, I would say $4 or at least 2% to make it worth it waiting a month"
+Female,Caucasian,18,8,2,4,300.0,"I would have to receive $100 more. Anything below that just wouldn't be appealing enough, because money in my pocket now would mean less bills now to worry about."
+Female,Caucasian,49,8,2,4,250.0,Interesr you could have earned if invested it for the month.
+Male,Caucasian,22,8,2,4,300.0," To have to wait is sort of inconvenient to me, so I feel that at the very least, $300 is worth waiting for.  Anything less, and  would probably just take the money and use it for the many things that I would spend it on.  It is hard to say what I would truly do, given this scenario, I would expect a relatively high bonus (>50% more) to wait for a month to get guaranteed income."
+Male,Caucasian,22,8,2,4,240.0,I have a strong desire to have money in my pocket as early as possible. Therefore I would want a decent amount more if I had to wait.
+Male,Caucasian,31,8,2,4,300.0,"I would accept $300.00 a month from now in lieu of $200.00 today.  I look at it as either a means of having a vacation or paying down debt.  There is significant opportunity cost associated with waiting a month for the money.  I have significant credit card debt, so the month for me is extra intrest accrued.  "
+Female,African American,30,8,2,4,250.0,I truely would choose option 2 because your getting more moneythan u woud usually. i wouldnt require a certin amount only because it money that i didnt have before so why be greedy . I would rather be thankful for even winning more less you giveing me more ust to wait a nother week
+Male,Caucasian,28,8,2,4,225.0,IT WOULD HAVE TO BE AT LEAST 25 MORE OR 225.  iF i HAD TO WAIT A MONTH IT WOULD HAVE TO BE WORTH THE WAIT.
+Male,Caucasian,20,8,2,4,307.76,"If the amount was great enough, I would definitely wait the month. I would say I would have to receive $500 or more in order to take the pay in one month."
+Female,Caucasian,30,9,1,5,2500.0,
+Male,Caucasian,18,9,1,5,2500.0,
+Female,Caucasian,31,9,1,5,3000.0,
+Female,African American,20,9,1,5,4000.0,
+Male,Caucasian,21,9,1,5,2025.0,
+Female,Caucasian,45,9,1,5,3000.0,
+Male,Caucasian,48,9,1,5,3000.0,
+Female,Caucasian,25,9,1,5,4000.0,
+Female,Caucasian,21,9,1,5,3000.0,
+Male,Caucasian,51,9,1,5,3000.0,
+Female,Caucasian,36,9,1,5,2500.0,
+Female,African American,26,9,1,5,3000.0,
+Female,Caucasian,57,9,1,5,2100.0,
+Female,Caucasian,25,9,1,5,2250.0,
+Female,Caucasian,25,9,1,5,3500.0,
+Male,Caucasian,28,9,1,5,2100.0,
+Female,Caucasian,20,9,1,5,2200.0,
+Male,Caucasian,31,9,1,5,2200.0,
+Male,African American,20,9,1,5,2500.0,
+Male,Caucasian,26,9,1,5,3000.0,
+Female,Caucasian,44,9,1,5,2400.0,
+Male,Asian American,18,9,1,5,2250.0,
+Male,Caucasian,22,9,1,5,4000.0,
+Female,Caucasian,55,9,1,5,3000.0,
+Male,Caucasian,19,9,1,5,2500.0,
+Male,Caucasian,32,9,1,5,3000.0,
+Male,Caucasian,24,9,1,5,2200.0,
+Male,Caucasian,23,9,1,5,2500.0,
+Male,Caucasian,31,9,1,5,3000.0,
+Female,Caucasian,21,9,1,5,2500.0,
+Male,Hispanic,22,9,1,5,2500.0,
+Male,Caucasian,19,9,1,5,3000.0,
+Male,Caucasian,35,9,1,5,3000.0,
+Male,Caucasian,27,9,1,5,2025.0,
+Female,Caucasian,29,9,1,5,2200.0,
+Male,Caucasian,30,9,1,5,2250.0,
+Male,Caucasian,42,9,1,5,2800.0,
+Female,Caucasian,25,9,1,5,3000.0,
+Female,Caucasian,58,9,1,5,2600.0,
+Male,Caucasian,60,9,1,5,2500.0,
+Male,Caucasian,33,9,1,5,2250.0,
+Male,Caucasian,20,9,1,5,2200.0,
+Male,African American,30,9,1,5,2400.0,
+Female,Caucasian,52,9,1,5,2400.0,
+Male,Caucasian,23,9,1,5,2500.0,
+Male,Pacific Islander,23,9,1,5,2750.0,
+Male,Caucasian,26,9,1,5,3000.0,
+Male,Caucasian,35,9,1,5,2250.0,
+Female,Caucasian,47,9,1,5,2020.0,
+Male,Caucasian,68,9,1,5,2050.0,
+Female,Caucasian,51,9,1,5,2500.0,
+Male,Caucasian,56,9,1,5,2100.0,
+Female,Caucasian,30,9,1,5,2100.0,
+Male,Caucasian,30,9,1,5,2020.0,
+Female,Caucasian,45,9,1,5,2700.0,
+Male,Caucasian,22,9,1,5,3000.0,
+Female,Caucasian,32,9,1,5,2500.0,
+Female,Asian American,28,9,1,5,2500.0,
+Male,Caucasian,23,9,1,5,2050.0,
+Male,Caucasian,26,9,1,5,3000.0,
+Male,Caucasian,20,9,1,5,2800.0,
+Male,Caucasian,20,9,1,5,3000.0,
+Male,Caucasian,32,9,1,5,3000.0,
+Female,Asian American,18,9,1,5,3000.0,
+Male,Caucasian,24,9,1,5,2500.0,
+Male,Caucasian,19,9,1,5,2500.0,
+Male,Caucasian,29,9,1,5,2050.0,
+Female,Caucasian,18,9,1,5,2500.0,
+Female,Caucasian,22,9,1,5,3000.0,
+Male,Caucasian,28,9,1,5,2500.0,
+Male,Caucasian,30,9,1,5,2150.0,
+Male,Caucasian,26,9,1,5,2200.0,
+Female,Caucasian,51,9,1,5,2050.0,
+Male,Caucasian,38,9,1,5,2200.0,
+Male,Caucasian,21,9,1,5,2200.0,
+Male,Caucasian,33,9,1,5,2200.0,
+Female,Native American,26,9,1,5,3000.0,
+Male,Asian American,18,9,1,5,3000.0,
+Female,Caucasian,23,9,1,5,2500.0,
+Female,Caucasian,27,9,1,5,2100.0,
+Male,Caucasian,27,9,1,5,2200.0,
+Female,Caucasian,60,9,1,5,2500.0,
+Female,Caucasian,30,9,1,5,2100.0,
+Male,Caucasian,19,9,1,5,2900.0,
+Female,Asian American,27,9,1,5,2500.0,
+Male,Caucasian,28,9,1,5,2001.0,
+Male,Caucasian,26,9,1,5,2100.0,
+Male,Caucasian,22,9,1,5,2500.0,
+Female,Caucasian,21,9,1,5,2100.0,
+Female,Caucasian,45,9,1,5,3000.0,
+Female,Asian American,26,9,1,5,2200.0,
+Female,Caucasian,23,9,1,5,2200.0,
+Female,Caucasian,24,9,1,5,2500.0,
+Male,Caucasian,41,9,1,5,2500.0,
+Female,Caucasian,33,9,1,5,3000.0,
+Female,Caucasian,52,9,1,5,2100.0,
+Female,Caucasian,25,9,1,5,2500.0,
+Male,Caucasian,38,9,1,5,2500.0,
+Male,Caucasian,20,9,1,5,3000.0,
+Female,Caucasian,38,9,1,5,2500.0,
+Female,Caucasian,66,9,1,5,3000.0,
+Female,Caucasian,37,9,1,5,2500.0,
+Male,Caucasian,22,9,1,5,2200.0,
+Male,Caucasian,24,9,1,5,4000.0,
+Female,Caucasian,26,9,1,5,2010.0,
+Female,Caucasian,19,9,1,5,4000.0,
+Male,Caucasian,33,9,1,5,2200.0,
+Female,Caucasian,19,9,1,5,3000.0,
+Male,Caucasian,39,9,1,5,3000.0,
+Male,Caucasian,46,9,1,5,2200.0,
+Female,Caucasian,63,9,1,5,2250.0,
+Male,Caucasian,18,9,1,5,2001.0,
+Female,Caucasian,47,9,1,5,2500.0,
+Male,Caucasian,24,9,1,5,2200.0,
+Female,Caucasian,21,9,1,5,2500.0,
+Male,Asian American,28,9,1,5,5000.0,
+Male,Pacific Islander,23,9,1,5,2250.0,
+Male,Caucasian,21,9,1,5,4000.0,
+Female,Caucasian,28,9,1,5,3000.0,
+Male,Caucasian,21,9,1,5,2500.0,
+Female,Caucasian,30,9,1,5,2500.0,
+Male,Caucasian,22,9,1,5,2200.0,
+Male,Caucasian,28,9,1,5,2100.0,
+Female,Caucasian,38,9,1,5,2500.0,
+Male,Caucasian,41,9,1,5,5000.0,
+Male,Caucasian,30,9,1,5,2200.0,
+Female,Caucasian,20,9,1,5,4000.0,
+Female,Caucasian,33,9,1,5,2050.0,
+Female,Caucasian,25,9,1,5,4000.0,
+Male,Caucasian,24,9,1,5,2350.0,
+Male,Caucasian,47,9,1,5,2500.0,
+Female,Caucasian,57,9,1,5,4000.0,
+Male,Caucasian,18,9,1,5,2005.0,
+Male,Caucasian,31,9,1,5,2050.0,
+Female,Caucasian,30,9,1,5,2200.0,
+Male,Caucasian,27,9,1,5,2500.0,
+Male,Caucasian,22,9,1,5,2200.0,
+Female,Hispanic,19,9,1,5,3000.0,
+Male,Caucasian,64,9,1,5,2250.0,
+Male,Caucasian,26,9,1,5,2020.0,
+Male,African American,35,9,1,5,3000.0,
+Female,Caucasian,27,9,1,5,2500.0,
+Female,Caucasian,24,9,1,5,2500.0,
+Male,Caucasian,28,9,1,5,2100.0,
+Male,Caucasian,30,9,1,5,2400.0,
+Male,Caucasian,39,9,1,5,2200.0,
+Female,African American,34,9,1,5,2200.0,
+Male,Caucasian,31,9,1,5,2500.0,
+Female,Caucasian,32,10,2,5,3000.0,I think 50% is a fair amount.  It's not too much but it's not too little either.  It's fair for both parts and it would give me something extra to look forward to.  
+Female,Asian American,24,10,2,5,2100.0,"I will probably pick more in one month. /  / Maybe at least 100 dollars more,then I will wait because anything less than 100 dollars is really no big deal. I would rather just get 2,000 now. "
+Male,Caucasian,45,10,2,5,2100.0,"The only reason I can see waiting would be desirable is if I could earn more by taking the money earlier and investing it somewhere than waiting and taking it later.  You have to be pretty well connected to make a lot of money by investing in one month's time, and I'm not well connected.  Also, the possible earnings over one month vary over time, depending on God knows how many variables.  That said, I'm almost pretty sure I would not earn more than about one hundred dollars, unless I was willing to gamble."
+Female,Caucasian,55,10,2,5,2500.0,"It would have to be around $2500 to warrant the month of waiting. In winning a raffle one expects instant cash, so waiting kills that excitement to a high degree, therefore a 25 percent markup somewhat makes up for that."
+Female,Caucasian,18,10,2,5,5000.0,"Because I could really use the money now, I would need significantly more."
+Female,Caucasian,60,10,2,5,2100.0,I'd want $100.00 because that would amount to a 5% return on my money.  That would be more interest than I could earn in any bank account and the stock market right now is too risky. 
+Male,Caucasian,34,10,2,5,2500.0,If i have to wait it has to be worth my while. A few dollars wouldn't make any sense. I'd rather have the money now if it's not at least $500.
+Male,Asian American,22,10,2,5,2060.0,"I would opt for 3% higher (2060), since that's the current inflation rate"
+Male,Caucasian,25,10,2,5,2500.0,I feel like one month isn't a a veyr long time to wait for money. For this reaosn I would not require it to be much higher.
+Male,Caucasian,31,10,2,5,2001.0,"Any amount that is larger than 2,000 would be worth it to me."
+Male,Hispanic,32,10,2,5,4000.0,At least 2000 more. I am patient enough to wait for more money.. The benefit is worth the wait. I luckily don't need it at this moment.
+Male,Caucasian,31,10,2,5,2500.0,"My base line would be 500 more.  Not sure why, but that was my initial reaction.  "
+Male,Caucasian,18,10,2,5,2100.0,"Well really anything over $100 would be worth it. I don't need the money now, so it's all good."
+Male,Caucasian,39,10,2,5,2025.0,"1 month is a very short time and I would wait the month if it was at least $25 more, I could use the extra cash now but really it would take a month to decide exactly how to spend my the extra money so it would be easy to wait and get even more , then as soon as i received it I would have used the extra time to further research what to do with the money and be more frugal with the money."
+Female,Caucasian,28,10,2,5,2250.0,"I am not short on money and therefore do not require my lottery winnings right away for any reason. Further, any money that I won would most likely go into my bank account. I might go out to dinner a couple extra times or buy myself something small, but I would not splurge, so unless the reward difference was really small, I really see no reason to wait. "
+Male,African American,22,10,2,5,4000.0,"If it were 2000 more it would be worth waiting. i don't need the money right away, so if it was more i would be willing to wait. i would just need to keep my mind occupied. "
+Male,Caucasian,24,10,2,5,2400.0,"My primary reasoning is that in order to be willing to wait a month to receive a reward, the increase in value must be substantial enough to override any value I accrue using the initial reward in the single month I would have to wait. An additional 20 percent seems to me substantial enough that I would be unable, under typical circumstances, to accrue that much value from the original reward."
+Male,Caucasian,20,10,2,5,2200.0,Depends on the one month interest rate at which I can invest the 2000 at.  
+Male,Caucasian,22,10,2,5,2020.0,"I would wait a month for at least $20. It's only 1% of the overall payment, but a guarantee of free money of any useful amount (In my opinion >$20) is worth a month's wait. "
+Male,Caucasian,21,10,2,5,2200.0,3000. A 50 percent bonus should intise anyone. Honestly I am not strapped for cash atm so I would probably take anything over 2200 right now.
+Female,Caucasian,24,10,2,5,3000.0,"I would require my idealized personal expenditures budget for that month. If I'm raffling I either have a good enough sense of the social dynamics of the raffle community(and a probable support network), am well off enough not to care, or am lucky and impulsive to begin with.  I'd really like to spend 1000 a month on toys/tools. So there you go. It's also half of that number which may or may not be a coincidence"
+Male,Caucasian,33,10,2,5,2500.0,"Well, it would be very nice to get the $2,000 instantly, so it would have to be a pretty significant increase to delay it by one month. One month isn't an overly large period of time, however so I wouldn't expect the payment to double. I would expect it to be about a 25% increase or so."
+Male,Caucasian,24,10,2,5,2200.0,I would wait for $2200 because that would be a gain of 10% which is great for interest.
+Male,Hispanic,35,10,2,5,2500.0,I have enough money to get me through to the next month and $500 is more than I could get by investing the $2000 for one month.
+Female,Caucasian,25,10,2,5,2500.0,I chose that number because I would need more money to pay off the interest that would accrue on the accounts I would want to clear with the raffle money. 
+Male,Caucasian,29,10,2,5,2500.0,"Well, I'm dirt poor and unemployed. I could live off $2000 for four months at least. But, I'd be willing to stick it out a bit longer for another month's worth of expenses."
+Male,Asian American,20,10,2,5,2500.0,"$500 more, because that's about how much I think I could make by investing it and flipping some items in 2 months. "
+Female,Caucasian,31,10,2,5,2400.0,20% ($400) or more increase. less than 5% and you may be better off getting the money and putting it into a short term cd. A 20% increase would be enough to offset the waiting
+Male,Asian American,21,10,2,5,2500.0,"I would accept $2,500. I don't really need the money now so I can wait a few weeks for a little more money."
+Male,Caucasian,24,10,2,5,5000.0,i would ask for 5000 becaues i need the money now. i need to pay my bills and my car payment 
+Male,Caucasian,34,10,2,5,3000.0,"I would need a substantial extra amount for having to wait a month to collect because I would rather have it now, and if I had to wait it should be worth it."
+Male,Caucasian,24,10,2,5,2500.0,I'd take more at a later date (1 month specifically) if it was atleast 20% more of the original. If not I'd rather just take the lump sum right away and use it to pay my bills. I'd probably atleast want 2400-2500 to accept it one month later.
+Female,Caucasian,21,10,2,5,2800.0,"I would require $2,800 to wait one month to receive payment because I am somewhat in need of money, but if I could add one extra rent payment to the raffle, I would gladly choose to wait."
+Female,Caucasian,34,10,2,5,3000.0,"First, I'm generally impatient, so I would prefer the money now. if I had to wait a month, I would want to be generously  compensated for it, as it would have to monetarily be worth my time to wait. For me, an additional $1000 (which could pay off some bills) would be worth the wait. "
+Male,Caucasian,35,10,2,5,2200.0,I'd be willing to settle for $2200 to wait a month for my money. A 10% return in one month is a nice return.
+Female,Caucasian,33,10,2,5,2300.0,"I would require getting $2,300 in order to make receiving the raffle winnings in one month just as attractive as getting $2,000 now because I could use the extra $300 to pay more of my bills off, but if given less than that it would not be worth waiting an extra month for the money to be given to me. "
+Female,Caucasian,34,10,2,5,2500.0,"I would want a quarter of the money plus the additional amount if I had to wait one month for it, partly because I could have invested that money in that month and also as compensation for making me wait."
+Male,Caucasian,28,10,2,5,2020.0,"If I'd won the money, it wouldn't be part of my normal budget.  I wouldn't  be expecting the money, so I woulnd't be reliant upon it."
+Female,Caucasian,39,10,2,5,2050.0,One month is not a very long time.  I would have no problem waiting that amount of time for even just  a little more money.  After all it's money I didn't have in the first place.
+Male,Caucasian,31,10,2,5,2020.0,"I would enough money in one month to outgain whatever interest I could get from the 2000. So even if it were 20 dollars, that would be great!"
+Male,Caucasian,33,10,2,5,4000.0,It would have to be at least twice as much. I need the money now so I'd take the $2000 right now. 
+Male,Hispanic,30,10,2,5,2100.0,The very minimum I would require to wait 1 month to receive the reward is 2100. I have a little bit of cash saved so I have to immediate need for this reward.
+Male,Caucasian,27,10,2,5,2050.0,"I do not require the money now, nor is it a life-changing amount. I would be willing to wait an entire month for as little as $50 more. "
+Male,Caucasian,18,10,2,5,2500.0,I want to receive more in 1 month. I can wait to earn more money.
+Female,Hispanic,32,10,2,5,2100.0,It would have to be an amount that would be worth waiting a small amount of time for.
+Male,Caucasian,25,10,2,5,2100.0,I'm not in immediate need of the money so I could wait and anything more would be a plus.
+Female,Caucasian,29,10,2,5,2200.0,"While I could certainly use $2000 and would be more than happy to have it, my need is not so urgent that waiting will harm me."
+Male,Other,21,10,2,5,4000.0,$2000 is a useful amount of money. I could do a lot with it now. 
+Female,Caucasian,26,10,2,5,3000.0,"I am pretty broke and I desire instant gratificaiton. 2,000 dollars is a lot of money, and I don't think I'd be willing to wait unless I was getting at least half that in return for waiting."
+Male,Caucasian,20,10,2,5,3000.0,I would wait a month to accept the money because I have enough money to survive and I have no immediate desire for it.
+Male,Caucasian,24,10,2,5,2001.0,Almost any amount as a bonus for waiting one month is attractive.  One month is certainly enough time to wait for an extra 2 grand.
+Male,Caucasian,23,10,2,5,2100.0,"I don't need money urgently, and I don't have any major purchases in the near future, so the only benefits to receiving it earlier would be convenience and bank interest."
+Male,Asian American,18,10,2,5,2500.0,"I would accept around 500$ more if I had to wait a month. You're basically adding another 20% to your total. Unless I needed the money that instant, I would be willing to wait a month to get more money."
+Male,Caucasian,22,10,2,5,2050.0,"At the moment I'm living paycheck to paycheck, but I can still make some small deposits to my savings account.  $50 is enough for a nice dinner or two for me and my wife, and that's all I really want at the moment."
+Male,Asian American,22,10,2,5,2500.0,According to inflation if should get 3% / 12 months of the amount of the value would not be worth as muc h as it is today. I would just take the money now unless it's larger than i can get by investing
+Male,Caucasian,28,10,2,5,2200.0,"I figure that a 10% increase is a fair amount for that difference in time.  Given that I would likely save it, I don't need a large increase for it to be worth it."
+Male,Hispanic,24,10,2,5,2500.0,I would require about an amount of money that would be similar to a month's salary.
+Male,Caucasian,37,10,2,5,2500.0,"I think waiting only a month to get more is obviously worth it. Even if it was just $1, it would be worth it."
+Male,Caucasian,32,10,2,5,2100.0,I would probably accept anything north of 2100. It's not much more valuable to receive it right away. It might almost be more fun because you would have the month to anticipate all the fun you'll have with the money.
+Female,Caucasian,51,10,2,5,2100.0,"It would have to be more than the amount that I think I could get on interest in the bank or investing in the stock market - say more than 5%, since I think I can get that investing in a good dividend stock."
+Male,Caucasian,23,10,2,5,4000.0,I would have to get at least double the money to wait one month.
+Male,Caucasian,23,10,2,5,2050.0,Depends on the interest rate at the time of receiving the money.
+Female,Caucasian,29,10,2,5,4000.0,It would have to be twice as much 4000. Waiting for a month would mean that I could not use it for I wanted right now. 
+Male,Caucasian,48,10,2,5,4000.0,"i would take the $2,000 now, unless I could at least double it by waiting. / Me and my family have bills and need money now. / I would however wait for a month for a little extra so I could treat my wife to a nice trip or something."
+Female,Caucasian,19,10,2,5,2500.0,To make waiting one month to recieve my money more attractive the ammount it would have to increase would have to be at least $500.
+Female,Caucasian,36,10,2,5,100000.0,It would have to be alot of money to make me wait. More than 100k I think.
+Female,Caucasian,38,10,2,5,2250.0,I would except to receive more in one month if the amount was at least $2250. I consider this interest earned. I don't have the money now so waiting a month for more would not be an inconvenience.
+Female,Caucasian,32,10,2,5,2500.0,"I  would rather have mine now, a lot can happen in a month."
+Male,Asian American,29,10,2,5,2200.0,"I don't need the money now, but would prefer to have it in hand.  So, if I would have to wait, I would want to have 10% more.  I don't want to lend money out for no reason."
+Male,Asian American,29,10,2,5,25000.0,I would take the 2k b/c I'm so broke right now unless its like 25k in 1 more month i'll wait for that
+Female,Caucasian,29,10,2,5,2100.0,"I would want at least $100 more, because I could really use the money now."
+Female,Caucasian,19,10,2,5,3000.0,One thousand dollars more.   I feel like that would be adequate enough for me to be able to hold out another month.  I also would not feel as greedy doing this than asking you to double it or something.  
+Male,Caucasian,29,10,2,5,2500.0,"I would like to get the money now, if it is not significantly more in a month.  3000 dollars would be very nice.  Perhaps even 2500."
+Female,Caucasian,28,10,2,5,2500.0,"One month isn't that long of a time to wait, so if its more than a few hundred dollars than i'd be willing to wait.  If its less than a few hundred dollars than I don't think its worth it and I would just take the 2000."
+Male,Caucasian,37,10,2,5,2500.0,i think $500 more would make me wait another nmonth.  that would be a quarter of the total winings.
+Male,Caucasian,64,10,2,5,2005.0,I would need to get at least $5 more to wait the extra month before getting the money. The reason why to wait before getting the money is because i could invest it and at least make $5 on my investment.
+Female,Caucasian,36,10,2,5,2800.0,$2800. I am very much in need of the money right now and it would take a lot to make me wait longer.
+Male,Caucasian,24,10,2,5,4000.0,If I had to wait to get the money than I would want at least double the amount of money because of the long wait.
+Male,Caucasian,28,10,2,5,4000.0,"If it is a significant amount of my nominal monthly income, I would consider the 1 month delay option"
+Female,African American,20,10,2,5,2500.0,500 dollars more. / it would be worth the wait since i'll be able to get more
+Male,Caucasian,71,10,2,5,2500.0,I could't invest the extra money now. / It wouldn't provide sufficient return.
+Male,African American,28,10,2,5,3000.0,I think 3000 dollars would make be good enough for me to wait that extra month.
+Female,Caucasian,27,10,2,5,2001.0,I would wait for $2001.  It is only a month.  I would rather have more money.
+Female,Asian American,22,10,2,5,2500.0,I would have to receive $500 more in order to receive the money in one month. $500 is a significant amount to wait for. 
+Male,Caucasian,20,10,2,5,2100.0,If I did not need the money immediately I would most likely wait the month to get more.
+Male,Other,19,10,2,5,2200.0,"I chose a number based on the percentage increase in a month. I think that 10 percent increase is the least amount I would take to wait, otherwise it could be invested and potentially make more in that time."
+Female,Caucasian,20,10,2,5,2050.0,"It wouldn't take much to make me wait a month for it. To me, regardless of timing, I'd want to get the most available to me. So I would wait a month in order to get $50 more... It's still $50 more than I'd have otherwise."
+Male,Hispanic,36,10,2,5,2025.0,Almost any quantity of money that would increase the money to recive by almost 1 dollar a day would be worth waiting for.
+Male,Caucasian,21,10,2,5,3500.0,I would take 2000 today unless they offered to do 3500 in one month. Then i believe that would be worth the wait for another 1500 dollars
+Male,African American,22,10,2,5,2100.0,Im not currently in immediate need of the money so i wouldn't mind waiting a month for an extra 100 dollars.
+Male,Caucasian,27,10,2,5,2250.0,"It needs to be enough that it's not something that I wouldn't notice (2000 is good, 2250 is better)"
+Male,Caucasian,19,10,2,5,2200.0,"An extra two hundred dollars is worth waiting for for the reason that in my perspective, that much money is a lot.  "
+Male,Hispanic,21,10,2,5,4000.0,"Feel like if I can hold out, the reward will be so much greater."
+Male,Caucasian,23,10,2,5,2500.0,"Since the reward is an amount of money i do not need to survive, I would be willing to wait longer for more money than have it right at the very moment.  However, it should increase at least 25% over the course of a month."
+Male,Caucasian,18,10,2,5,4000.0,"I would want the amount to be doubled to $4,000. I think that the money being doubled is fair since a month is a pretty long time, especially since you could do a lot with $2,000."
+Female,Caucasian,61,10,2,5,4000.0,"I would need at least $923.78 more to wait another month to receive the raffle payment.  It seems like an unrealistic amount, because banks are only giving 1% interest in accounts,  However, if you factor in that the raffle amount is $2000, divided by 4.33 weeks in a month, the average weekly amount is $461.89.  So to be fair, if you double the amount of $461.89, you will be splitting the $2000 with the raffle agents for a month's wait.  If they are not willing to do that, then I would want to have my money immediately."
+Male,Caucasian,23,10,2,5,2250.0,"Barring a situation in which I was desperate for money, I would likely be willing to wait for more money."
+Female,Caucasian,22,10,2,5,6000.0,"I would have to be offered triple the amount of money.  Six thousand dollars would be good enough for me to wait.  Other than that, I'd want the money right then and there."
+Male,Caucasian,33,10,2,5,2500.0,"About 500 bucks. I'd rather spend the money right away, the increase would have to be significant. I make more than that in a week anyway. "
+Male,African American,30,10,2,5,2500.0,"I would rather wait for the 1 month because in the long run, I will be getting more money. Having such a large lump sum would be more convenient but getting more money in total is more important. "
+Male,African American,34,10,2,5,5000.0,I would wait the month if the amount was 5000 or more . / The reason I would wait for that amount (3000) is because the extra month of wait is about what a month of my bills / so i would want my bills paid for waiting 
+Female,Caucasian,28,10,2,5,5000.0,I would want at least twice as much for the wait. and then I wanted to round it to a division of 5. 5k would be worth the wait. 3 k would be a joke because i need money now.
+Male,Caucasian,25,10,2,5,2500.0,getting money now is better. 2500 in one month will be fine.
+Female,Caucasian,34,10,2,5,5000.0,It would have to be doubled to make it worthwhile to wait. This would like getting interest for waiting. Also this would be an incentive to wait rather than receive payment immediately.
+Female,Hispanic,22,10,2,5,2050.0,"Well I don't need $2000 immediately, so delayed gratification would be worth it, even for a small amount. I would not earn much interest on that $2000 in one month, so even a relatively small % would be fine."
+Male,Caucasian,22,10,2,5,4000.0,"I would gladly accept the $2,000 prize. I currently am quite low on money and that amount would be of great help, however if the amount doubled to $4,000, then I would have no problem waiting a month."
+Male,Caucasian,51,10,2,5,2500.0,I would prefer to recieve my money now. as you don't know what can happen in a month's time thus I request an amount 20 percent higher in the hopes of getting it now
+Female,Caucasian,30,10,2,5,3000.0,"The $2000.00 would be very attractive to me right now as I'm behind on bills.  So for me to wait for money, it would have to be at least another $1000, or $3000.00 total (or more)."
+Male,Caucasian,33,10,2,5,3000.0,I would take the 2000 or ask for 3000 for the 1 month wait. If I have to wait for money at least it should be a much higher amount. 
+Female,Caucasian,22,10,2,5,2100.0,"I would want $100 more to wait a month. I would need some incentive to wait another month, when I could be paying off bills or school right away. If I waited, then I would have more money to do those things with."
+Female,Caucasian,41,10,2,5,20000.0,"Two thousand dollars is a great deal of money to me.  I could use that much money right now to help with my household budget.  For me to wait, the amount of money that I would receive would have to be a lot more."
+Female,Hispanic,29,10,2,5,2500.0,"Well, being that I have no impending debt, it would not take much for me to consider waiting more than 1 month to receive the payment. 1 month is not that long, after all, and at that point it would appear to be this nice ""surprise""!"
+Female,Caucasian,48,10,2,5,2500.0,I would need at leat 2500.00 to make it worth waiting. I think it is the bonus I should receive for agreeing to wait. 
+Female,Caucasian,42,10,2,5,3000.0,"I would rather receive the $2,000 now.  It would be worth it to me to wait a month if the amount was $3,000.00. The reason I would rather have the $2,000 now is because you never know what might change in a month - the raffle company could go bankrupt, etc. But, if it were an increased amount in a month, it might be worth the risk."
+Female,Caucasian,48,10,2,5,5000.0,"In order to make the money more attractive to me, I would request that the sum be $5,000.  The reason for this is I know of some things I would like to have RIGHT NOW, I could purchase them for less than $2,000 on sale right now, but if I have to wait 30 days, the prices would no longer be on sale and it would require $3,000 to purchase them."
+Female,Caucasian,35,10,2,5,3000.0,"It would take another 1,000 for me to wait another month. A 50% increase is worth the wait of one month. I would rather wait a month, because it is more money than I have now and was basically free money."
+Male,Caucasian,26,10,2,5,2020.0,I would wait a month for $2020 at the very least. Any less and you would probably be losing money from inflation.
