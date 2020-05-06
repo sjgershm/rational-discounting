@@ -179,7 +179,11 @@ function plot_results(fig,results,data,varargin)
             err= diff(ci)/2;
             %se = std(results.x(:,1:2))./sqrt(size(results.x,1));
             
-            barerrorbar(m',err'); colormap summer
+            [~,~,c] = barerrorbar(m',err'); colormap summer
+            hold on;
+            for i = 1:2
+                plot(-0.25 + 0.5*rand(size(results.x(:,i)))+c(i),results.x(:,i),'.','Color',[0.5 0.5 0.5]);
+            end
             set(gca,'Fontsize',25,'XLim',[0.5 2.5],'XTick',1:2,'XTickLabel',{'m_\alpha' 'm_k'});
             ylabel('Parameter estimate','FontSize',25);
             [~,p,~,stat] = ttest(results.x(:,1:2));
@@ -210,11 +214,15 @@ function plot_results(fig,results,data,varargin)
             
             results = results(4);
             
-            X = [];
+            X = []; %M = []; grp = [];
             for i = 1:2
                 if i==1; c=[data.Condition]==0; else c=[data.Condition]==1; end
                 %c = c & ix;
                 m(i,:) = mean(results.x(c,[1 3]));
+                %M = [M; results.x(c,1); results.x(c,2)];
+                %grp = [grp; zeros(sum(c)*2,1)+i [zeros(sum(c),1)+1; zeros(sum(c),1)+2]];
+                M{i,1} = results.x(c,1);
+                M{i,2} = results.x(c,2);
                 X = [X; results.x(c,[1 3])];
                 %err(i,:) = std(results.x(c,[1 3]))./sqrt(sum(c));
             end
@@ -235,9 +243,15 @@ function plot_results(fig,results,data,varargin)
             [~,p,~,stat] = ttest(results.x(:,3));
             disp(['m_k: t(',num2str(stat.df),') = ',num2str(stat.tstat),', p = ',num2str(p)]);
             
-            barerrorbar(m',err'); colormap summer;
+            [~,~,c] = barerrorbar(m',err'); colormap summer;
+            hold on;
+            for i = 1:2
+                for j = 1:2
+                    plot(-0.05 + 0.1*rand(size(M{i,j}))+c(i,j),M{i,j},'.','Color',[0.5 0.5 0.5]);
+                end
+            end
             set(gca,'Fontsize',25,'XLim',[0.5 2.5],'XTick',1:2,'XTickLabel',{'m_\alpha' 'm_k'});
             ylabel('Parameter estimate','FontSize',25);
-            legend({'Low variance' 'High variance'},'FontSize',25,'Box','Off');
+            legend({'Low variance' 'High variance'},'FontSize',25,'Location','South');
             
     end
